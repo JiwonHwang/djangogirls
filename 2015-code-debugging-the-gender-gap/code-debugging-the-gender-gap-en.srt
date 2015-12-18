@@ -1,0 +1,7943 @@
+1
+00:00:02,634 --> 00:00:09,641
+[indiscernible chatter]
+
+2
+00:00:10,943 --> 00:00:12,911
+(female interviewer) 
+Are girls as good as boys 
+at computers?
+
+3
+00:00:12,945 --> 00:00:14,680
+- Yes. 
+- For sure.
+
+4
+00:00:14,713 --> 00:00:16,648
+We can pretty much 
+do anything they can do.
+
+5
+00:00:16,682 --> 00:00:18,517
+There shouldn't be 
+a stereotype about it at all.
+
+6
+00:00:18,550 --> 00:00:20,252
+Yeah, there shouldn't be, 
+like, a barrier
+
+7
+00:00:20,285 --> 00:00:24,256
+between our genders 
+just because we're that gender.
+
+8
+00:00:24,289 --> 00:00:25,791
+It's all equal.
+
+9
+00:00:25,824 --> 00:00:30,496
+A coder is a person that 
+creates things on the computer
+
+10
+00:00:30,529 --> 00:00:32,464
+by using a language.
+
+11
+00:00:32,498 --> 00:00:33,966
+(interviewer) 
+If I had you draw a picture
+
+12
+00:00:33,999 --> 00:00:35,834
+or describe to me 
+what they look like,
+
+13
+00:00:35,868 --> 00:00:37,870
+computer science programmer, 
+what would they look like?
+
+14
+00:00:37,903 --> 00:00:39,404
+Glasses.
+
+15
+00:00:39,438 --> 00:00:41,940
+Like my dad is-- 
+my dad goes to work in Oakland
+
+16
+00:00:41,974 --> 00:00:43,475
+and he has a computer
+
+17
+00:00:43,509 --> 00:00:45,210
+and he just works 
+every day on his computer.
+
+18
+00:00:45,244 --> 00:00:47,379
+(interviewer) 
+Is that pretty cool? 
+Or is that not so cool?
+
+19
+00:00:47,412 --> 00:00:50,415
+It's cool 'cause I get to 
+go down a slide in his office.
+
+20
+00:00:50,449 --> 00:00:53,519
+(interviewer) 
+Do you think it'd be fun to be 
+a computer science person?
+
+21
+00:00:53,552 --> 00:00:57,322
+- I don't think so. 
+- Why not?
+
+22
+00:00:57,356 --> 00:00:58,924
+Because you're always 
+on a computer
+
+23
+00:00:58,957 --> 00:01:00,492
+and it sometimes 
+could get a little boring.
+
+24
+00:01:00,526 --> 00:01:03,462
+(interviewer) 
+And that image in your mind, 
+is that a man or a woman?
+
+25
+00:01:03,495 --> 00:01:04,796
+Man.
+
+26
+00:01:04,830 --> 00:01:14,873
+♪♪♪
+
+27
+00:01:14,873 --> 00:01:19,811
+♪♪♪
+
+28
+00:01:19,845 --> 00:01:25,951
+♪♪♪
+
+29
+00:01:25,984 --> 00:01:27,653
+(Reshma Saujani) 
+The White House 
+released a report
+
+30
+00:01:27,686 --> 00:01:29,488
+that there will be 
+1.4 million jobs
+
+31
+00:01:29,521 --> 00:01:30,956
+that are gonna be open 
+by 2020
+
+32
+00:01:30,989 --> 00:01:32,824
+in the computing-related 
+fields.
+
+33
+00:01:32,858 --> 00:01:35,561
+And at the current rate, 
+less than 29% of them
+
+34
+00:01:35,594 --> 00:01:37,262
+are gonna be 
+filled by Americans,
+
+35
+00:01:37,296 --> 00:01:40,666
+and less than 3% of that 29% 
+are gonna be women.
+
+36
+00:01:40,699 --> 00:01:43,368
+In the next 5 years, 
+this country is going to produce
+
+37
+00:01:43,402 --> 00:01:45,871
+about 3 times as many jobs 
+for software engineers
+
+38
+00:01:45,904 --> 00:01:48,974
+as it is producing 
+new computer science majors.
+
+39
+00:01:49,908 --> 00:01:54,546
+♪♪♪
+
+40
+00:01:54,580 --> 00:01:57,015
+This whole industry is gonna 
+start to run out of gas
+
+41
+00:01:57,049 --> 00:01:59,918
+if we're not producing 
+enough computer science talent.
+
+42
+00:01:59,952 --> 00:02:01,853
+It's so urgent 
+that we get more people
+
+43
+00:02:01,887 --> 00:02:04,389
+to have the skills 
+for coding and making,
+
+44
+00:02:04,423 --> 00:02:06,725
+'cause we have so many different 
+problems to solve in the world.
+
+45
+00:02:06,758 --> 00:02:09,394
+And the industry 
+really needs more diversity
+
+46
+00:02:09,428 --> 00:02:11,063
+so we can make 
+the broad set of products
+
+47
+00:02:11,096 --> 00:02:12,998
+that this world deserves.
+
+48
+00:02:13,031 --> 00:02:15,701
+And I really think that this 
+is a Rosie the Riveter moment,
+
+49
+00:02:15,734 --> 00:02:17,803
+because the jobs are here
+
+50
+00:02:17,836 --> 00:02:20,005
+and we don't have 
+the workers to fill them.
+
+51
+00:02:23,442 --> 00:02:27,779
+(female computer voice) 
+CODE: 
+Debugging the Gender Gap.
+
+52
+00:02:31,516 --> 00:02:34,419
+(male instructor) 
+A program is 
+a series of instructions.
+
+53
+00:02:34,453 --> 00:02:37,889
+If, then, instruction is the 
+real thing that separates
+
+54
+00:02:37,923 --> 00:02:40,492
+a computer from 
+a straightforward calculator.
+
+55
+00:02:40,525 --> 00:02:43,395
+It can make little decisions 
+within itself.
+
+56
+00:02:43,428 --> 00:02:45,063
+(instructor) 
+It is the program 
+that is the key
+
+57
+00:02:45,097 --> 00:02:48,333
+to the computer's 
+effectiveness and versatility.
+
+58
+00:02:48,367 --> 00:02:52,504
+Through the program, man 
+communicates with the machine.
+
+59
+00:02:55,374 --> 00:02:56,942
+Ha ha! 
+Coding's magic.
+
+60
+00:02:56,975 --> 00:02:59,111
+Coding is behind everything.
+
+61
+00:02:59,144 --> 00:03:00,846
+Your pocket is full of code.
+
+62
+00:03:00,879 --> 00:03:02,547
+It's got your phone in it.
+
+63
+00:03:02,581 --> 00:03:04,416
+And so it's really like--
+
+64
+00:03:04,449 --> 00:03:05,817
+coders should be 
+everybody at this point.
+
+65
+00:03:05,851 --> 00:03:07,786
+There's so many exciting 
+things that you can do.
+
+66
+00:03:07,819 --> 00:03:09,655
+You can make music, 
+you can do fashion,
+
+67
+00:03:09,688 --> 00:03:12,391
+you can do all kinds 
+of things with code.
+
+68
+00:03:12,424 --> 00:03:15,060
+We're kind of on the precipice 
+of everyone being a coder.
+
+69
+00:03:16,728 --> 00:03:19,531
+Basically it's writing 
+a set of instructions,
+
+70
+00:03:19,564 --> 00:03:23,568
+and those instructions 
+are what a computer follows.
+
+71
+00:03:23,602 --> 00:03:26,938
+You put all those together 
+and you have e-mail,
+
+72
+00:03:26,972 --> 00:03:28,874
+and you have iTunes,
+
+73
+00:03:28,907 --> 00:03:31,376
+and you have 
+all kinds of cool things.
+
+74
+00:03:32,544 --> 00:03:34,846
+Regardless of if you want 
+a job in this field or not,
+
+75
+00:03:34,880 --> 00:03:36,381
+I think learning something 
+about computer science
+
+76
+00:03:36,415 --> 00:03:37,716
+is pretty important.
+
+77
+00:03:37,749 --> 00:03:39,084
+I think it's 
+an important life skill.
+
+78
+00:03:39,117 --> 00:03:40,786
+In the same way 
+that everyone should know
+
+79
+00:03:40,819 --> 00:03:42,654
+a little bit about law, 
+and everyone should know
+
+80
+00:03:42,688 --> 00:03:44,523
+a little bit about economics, 
+you probably should know
+
+81
+00:03:44,556 --> 00:03:46,658
+a little bit about 
+computer science.
+
+82
+00:03:46,692 --> 00:03:49,127
+Everything from your 
+navigation system in your car
+
+83
+00:03:49,161 --> 00:03:52,030
+to the way we think 
+about credit card fraud,
+
+84
+00:03:52,064 --> 00:03:54,833
+it's all radically changed 
+behind the scenes.
+
+85
+00:03:54,866 --> 00:03:56,168
+(female computer voice) 
+Enter your passcode.
+
+86
+00:03:56,201 --> 00:03:58,103
+There's no one way 
+to do coding.
+
+87
+00:03:58,136 --> 00:04:02,007
+It's about problem solving 
+in a very precise way,
+
+88
+00:04:02,040 --> 00:04:04,676
+but also in a creative way.
+
+89
+00:04:04,710 --> 00:04:05,911
+You can write some code once,
+
+90
+00:04:05,944 --> 00:04:08,780
+hundreds of millions of people 
+or more can be accessing
+
+91
+00:04:08,814 --> 00:04:10,415
+the products that you've built.
+
+92
+00:04:10,449 --> 00:04:11,883
+(female computer voice) 
+Yelp. Yelp.
+
+93
+00:04:11,917 --> 00:04:14,119
+(Danielle Feinberg) 
+You can combine code 
+with anything you love
+
+94
+00:04:14,152 --> 00:04:15,821
+and you can have a job doing it.
+
+95
+00:04:15,854 --> 00:04:19,591
+I loved art and I loved coding 
+and now I get to make movies.
+
+96
+00:04:23,695 --> 00:04:25,630
+So if you take 
+our film, "Brave,"
+
+97
+00:04:25,664 --> 00:04:26,965
+and our main character, Merida,
+
+98
+00:04:26,998 --> 00:04:29,534
+and she's got this 
+huge head of red hair.
+
+99
+00:04:29,568 --> 00:04:33,638
+And to make those curls 
+move the right way,
+
+100
+00:04:33,672 --> 00:04:35,674
+you have to consider 
+the physics of things.
+
+101
+00:04:35,707 --> 00:04:37,576
+There's so many 
+different algorithms,
+
+102
+00:04:37,609 --> 00:04:40,479
+like thousands of them, 
+that we use all the time.
+
+103
+00:04:40,512 --> 00:04:44,216
+And then you code 
+up those equations.
+
+104
+00:04:44,249 --> 00:04:46,184
+And then for all 
+the shots in the movie,
+
+105
+00:04:46,218 --> 00:04:47,385
+the code crunches the numbers
+
+106
+00:04:47,419 --> 00:04:50,489
+and takes into account 
+things like wind, and gravity,
+
+107
+00:04:50,522 --> 00:04:53,058
+and whether Merida's climbing 
+a mountain, or riding a horse,
+
+108
+00:04:53,091 --> 00:04:59,598
+and does it brush her shoulder, and all of these things.
+
+109
+00:04:59,631 --> 00:05:01,733
+So, what you get 
+is this lovely teenager
+
+110
+00:05:01,767 --> 00:05:03,068
+that's fiery and spirited,
+
+111
+00:05:03,101 --> 00:05:04,803
+and it sort of 
+sells her personality
+
+112
+00:05:04,836 --> 00:05:06,872
+and her hair moves 
+the right way.
+
+113
+00:05:06,905 --> 00:05:11,810
+I am Merida and I'll be 
+shooting for my own hand.
+
+114
+00:05:13,645 --> 00:05:16,047
+What are you doing?
+
+115
+00:05:16,615 --> 00:05:18,784
+I've worked at Pixar 
+for 17 years.
+
+116
+00:05:18,817 --> 00:05:21,119
+I have a computer science degree 
+from Harvard,
+
+117
+00:05:21,153 --> 00:05:23,054
+but had always 
+done a lot of art,
+
+118
+00:05:23,088 --> 00:05:26,925
+and so kind of worked my way 
+from technical into creative.
+
+119
+00:05:26,958 --> 00:05:29,628
+For me, being a teenager, 
+I think of it as sort of
+
+120
+00:05:29,661 --> 00:05:32,097
+one foot being in the world 
+of being a kid
+
+121
+00:05:32,130 --> 00:05:34,099
+and one foot in the world 
+of being an adult,
+
+122
+00:05:34,132 --> 00:05:36,101
+and figuring out who you 
+are away from your family,
+
+123
+00:05:36,134 --> 00:05:37,636
+and sort of 
+coming into your own,
+
+124
+00:05:37,669 --> 00:05:39,004
+what's your voice, 
+all of these things.
+
+125
+00:05:40,238 --> 00:05:42,841
+- Merida! 
+- Curse this dress!
+
+126
+00:05:42,941 --> 00:05:44,476
+[fabric ripping]
+
+127
+00:05:45,210 --> 00:05:46,745
+[crowd gasping]
+
+128
+00:05:46,778 --> 00:05:48,713
+Merida, stop this!
+
+129
+00:05:49,781 --> 00:05:51,850
+(Danielle Feinberg) 
+So this idea of Merida 
+as this teenager
+
+130
+00:05:51,883 --> 00:05:54,019
+and she's trying to 
+find her way in the world,
+
+131
+00:05:54,052 --> 00:05:57,889
+brought me to this time period 
+in my life in 8th grade.
+
+132
+00:05:57,923 --> 00:06:00,192
+There's this class and 
+it's called Power Mechanics.
+
+133
+00:06:00,225 --> 00:06:02,828
+And the idea was that 
+you take a lawnmower
+
+134
+00:06:02,861 --> 00:06:05,030
+that's been donated to 
+the local hardware store
+
+135
+00:06:05,063 --> 00:06:06,965
+that doesn't work anymore, 
+and you take it apart,
+
+136
+00:06:06,998 --> 00:06:09,668
+and you put it back together 
+with the idea that at the end,
+
+137
+00:06:09,701 --> 00:06:11,803
+maybe it would work, 
+hopefully.
+
+138
+00:06:11,837 --> 00:06:13,305
+I was definitely 
+the only girl in there,
+
+139
+00:06:13,338 --> 00:06:15,841
+but it wasn't like I turned into the school pariah or anything,
+
+140
+00:06:15,874 --> 00:06:17,142
+so it was okay.
+
+141
+00:06:17,175 --> 00:06:19,711
+At the end of the semester, 
+we rolled the lawnmowers out,
+
+142
+00:06:19,744 --> 00:06:21,880
+and I just happened to be 
+the last one in line.
+
+143
+00:06:21,913 --> 00:06:23,748
+And so I'm watching 
+as these guys are pulling
+
+144
+00:06:23,782 --> 00:06:26,017
+the string on the lawnmower, 
+and nothing's happening,
+
+145
+00:06:26,051 --> 00:06:28,186
+and it's silent except 
+for all of this, sort of like,
+
+146
+00:06:28,220 --> 00:06:29,354
+frustration going on.
+
+147
+00:06:29,387 --> 00:06:32,824
+The teacher finally gets to me 
+and puts the gas in,
+
+148
+00:06:32,858 --> 00:06:34,159
+and I take this deep breath,
+
+149
+00:06:34,192 --> 00:06:37,028
+and I just pulled 
+as hard as I could.
+
+150
+00:06:37,062 --> 00:06:39,030
+And the lawnmower, like, 
+roars to life.
+
+151
+00:06:39,064 --> 00:06:41,233
+And I look up, and there's 
+this whole line of guys
+
+152
+00:06:41,266 --> 00:06:42,868
+and they're just looking at me
+
+153
+00:06:42,901 --> 00:06:45,237
+with this shocked 
+look on their face.
+
+154
+00:06:45,270 --> 00:06:46,938
+And then I ran around 
+the football field
+
+155
+00:06:46,972 --> 00:06:49,708
+mowing the lawn, you know?
+
+156
+00:06:50,175 --> 00:06:52,177
+[applauding]
+
+157
+00:06:52,777 --> 00:06:55,280
+(Danielle Feinberg) 
+I think role models 
+are hugely important.
+
+158
+00:06:55,313 --> 00:06:56,982
+You're not gonna imagine 
+you can do something
+
+159
+00:06:57,015 --> 00:06:59,117
+unless you see someone 
+that you can connect with
+
+160
+00:06:59,150 --> 00:07:00,986
+that's doing the same thing.
+
+161
+00:07:01,019 --> 00:07:02,320
+When it's a woman doing that,
+
+162
+00:07:02,354 --> 00:07:03,989
+it's easier to make 
+that connection.
+
+163
+00:07:04,022 --> 00:07:05,323
+At a certain point you realize,
+
+164
+00:07:05,357 --> 00:07:07,826
+"Oh, I do actually 
+know what I'm doing,
+
+165
+00:07:07,859 --> 00:07:09,227
+"and I'm actually 
+pretty good at this,
+
+166
+00:07:09,261 --> 00:07:11,263
+and I belong in this room."
+
+167
+00:07:20,639 --> 00:07:22,240
+Gloria Steinem says 
+that women have always been
+
+168
+00:07:22,274 --> 00:07:23,875
+an equal part of the past,
+
+169
+00:07:23,909 --> 00:07:25,377
+just not an equal part 
+of history,
+
+170
+00:07:25,410 --> 00:07:26,912
+which is the case, of course,
+
+171
+00:07:26,945 --> 00:07:29,748
+here in computer science 
+and technology.
+
+172
+00:07:29,781 --> 00:07:31,216
+Women were 
+the pioneer programmers.
+
+173
+00:07:31,249 --> 00:07:32,751
+They've been written 
+out of history
+
+174
+00:07:32,784 --> 00:07:34,886
+unfortunately in many cases,
+
+175
+00:07:34,920 --> 00:07:36,388
+but they were the ones 
+who first understood
+
+176
+00:07:36,421 --> 00:07:38,990
+that instructing the machine 
+was more important
+
+177
+00:07:39,024 --> 00:07:41,126
+than the hardware 
+of the machine.
+
+178
+00:07:42,727 --> 00:07:44,896
+One of the first women 
+pioneers in computing
+
+179
+00:07:44,930 --> 00:07:48,900
+was Ada Lovelace, 
+Lord Byron's daughter.
+
+180
+00:07:48,934 --> 00:07:52,370
+(Nathan Ensmenger) 
+She's often considered to be 
+the first computer programmer.
+
+181
+00:07:52,404 --> 00:07:54,339
+Very often we trace 
+the history of computing
+
+182
+00:07:54,372 --> 00:07:56,107
+back to a guy named 
+Charles Babbage,
+
+183
+00:07:56,141 --> 00:07:59,811
+who, in England in the 1820s, 
+built some machines
+
+184
+00:07:59,844 --> 00:08:04,983
+that look like 
+a modern computer.
+
+185
+00:08:05,016 --> 00:08:07,986
+Ada Lovelace 
+was a mathematician
+
+186
+00:08:08,019 --> 00:08:10,855
+who wrote a first 
+and very important description
+
+187
+00:08:10,889 --> 00:08:13,959
+of Babbage's 
+analytical engine.
+
+188
+00:08:17,095 --> 00:08:19,364
+(Walter Isaacson) 
+She really envisioned 
+how punch cards,
+
+189
+00:08:19,397 --> 00:08:21,366
+which instructed 
+the mechanical looms
+
+190
+00:08:21,399 --> 00:08:23,969
+that were driving 
+industrial England,
+
+191
+00:08:24,002 --> 00:08:26,104
+that they could be used by 
+her friend Charles Babbage's
+
+192
+00:08:26,137 --> 00:08:28,840
+difference 
+and analytical engines
+
+193
+00:08:28,873 --> 00:08:30,942
+so that they could do 
+more than just numbers.
+
+194
+00:08:30,976 --> 00:08:32,077
+They could be computers.
+
+195
+00:08:32,110 --> 00:08:35,313
+They could do words and pictures and music and patterns.
+
+196
+00:08:37,849 --> 00:08:40,885
+The first computers were built for special purposes:
+
+197
+00:08:40,919 --> 00:08:42,921
+breaking the German 
+wartime codes,
+
+198
+00:08:42,954 --> 00:08:44,756
+calculating 
+a missile trajectory.
+
+199
+00:08:44,789 --> 00:08:47,425
+And if you wanted to reprogram 
+them to do another problem,
+
+200
+00:08:47,459 --> 00:08:50,829
+you had to unplug some cables 
+and do some switches.
+
+201
+00:08:50,862 --> 00:08:52,864
+And the women were in charge of doing the plugging
+
+202
+00:08:52,897 --> 00:08:54,332
+and unplugging of the cables.
+
+203
+00:08:54,366 --> 00:08:57,035
+They'd look at the diagram of the computer and figure out,
+
+204
+00:08:57,068 --> 00:09:00,338
+"How would we move 
+the cables to reprogram it?"
+
+205
+00:09:00,372 --> 00:09:02,407
+It did not seem like 
+the most important work,
+
+206
+00:09:02,440 --> 00:09:06,144
+but it took a good 
+mathematical mind.
+
+207
+00:09:06,177 --> 00:09:09,314
+(Nathan Ensmenger) The designers thought that this would be an easy job,
+
+208
+00:09:09,347 --> 00:09:11,216
+that the building 
+of the machine
+
+209
+00:09:11,249 --> 00:09:13,018
+would be 
+the most difficult task.
+
+210
+00:09:13,051 --> 00:09:14,352
+And then you 
+would have a scientist
+
+211
+00:09:14,386 --> 00:09:15,920
+who would define the problem
+
+212
+00:09:15,954 --> 00:09:18,123
+and these women 
+would just be coding it.
+
+213
+00:09:18,156 --> 00:09:20,358
+They'd be translating it 
+from human language
+
+214
+00:09:20,392 --> 00:09:23,728
+into machine language.
+
+215
+00:09:23,762 --> 00:09:26,798
+It turns out that coding 
+was quite difficult.
+
+216
+00:09:26,831 --> 00:09:28,767
+And so, these women played 
+a very active role
+
+217
+00:09:28,800 --> 00:09:32,904
+in defining what 
+a computer could do.
+
+218
+00:09:32,937 --> 00:09:34,906
+They had this equipment 
+and somebody had to figure out
+
+219
+00:09:34,939 --> 00:09:36,241
+what to do with it.
+
+220
+00:09:36,274 --> 00:09:38,476
+Well, that's always 
+a good job to give to the women.
+
+221
+00:09:38,510 --> 00:09:40,211
+Ha ha!
+
+222
+00:09:40,245 --> 00:09:42,814
+Do something with this! 
+Make it work.
+
+223
+00:09:42,847 --> 00:09:46,184
+And, you know, in the early days 
+of hardware and software,
+
+224
+00:09:46,217 --> 00:09:47,986
+that was kind of 
+what it was like.
+
+225
+00:09:48,019 --> 00:09:50,388
+Hardware would put stuff 
+as much as they could with it
+
+226
+00:09:50,422 --> 00:09:51,956
+and they'd give it 
+to software people.
+
+227
+00:09:51,990 --> 00:09:53,425
+Do something with it.
+
+228
+00:10:00,932 --> 00:10:03,034
+(Tracy Chou) 
+I don't think software 
+engineering, as an industry,
+
+229
+00:10:03,068 --> 00:10:04,235
+is a meritocracy.
+
+230
+00:10:04,269 --> 00:10:08,406
+I think it's a great ideal that 
+engineering holds itself to,
+
+231
+00:10:08,440 --> 00:10:11,409
+but it's very far 
+from being that.
+
+232
+00:10:11,443 --> 00:10:14,412
+I'm really excited that there is a lot more conversation around
+
+233
+00:10:14,446 --> 00:10:17,248
+diversity in engineering 
+and diversity in tech now
+
+234
+00:10:17,282 --> 00:10:19,117
+than even there was 
+a couple of years ago,
+
+235
+00:10:19,150 --> 00:10:21,386
+'cause I think the first step 
+is that awareness.
+
+236
+00:10:21,419 --> 00:10:31,930
+♪♪♪
+
+237
+00:10:31,963 --> 00:10:34,799
+I went to a conference 
+in October 2013,
+
+238
+00:10:34,833 --> 00:10:37,302
+and in there listening 
+to a few people
+
+239
+00:10:37,335 --> 00:10:40,138
+speaking about 
+the lack of women,
+
+240
+00:10:40,171 --> 00:10:42,373
+how bad the numbers were, how the numbers were declining.
+
+241
+00:10:42,407 --> 00:10:45,310
+But nobody was talking about the actual numbers that they had
+
+242
+00:10:45,343 --> 00:10:47,946
+or whether any of these tactics that they were deploying
+
+243
+00:10:47,979 --> 00:10:51,349
+were helping with the numbers.
+
+244
+00:10:51,382 --> 00:10:53,318
+And so, when I came back 
+from the conference,
+
+245
+00:10:53,351 --> 00:10:56,821
+I issued this call to action 
+that people could count up
+
+246
+00:10:56,855 --> 00:10:58,289
+the number of female 
+software engineers
+
+247
+00:10:58,323 --> 00:10:59,491
+as well as total 
+software engineers
+
+248
+00:10:59,524 --> 00:11:02,527
+within their companies 
+and submit it to this project
+
+249
+00:11:02,560 --> 00:11:05,864
+and we could aggregate it 
+into one place.
+
+250
+00:11:09,267 --> 00:11:11,336
+Before it was more or less 
+an open secret
+
+251
+00:11:11,369 --> 00:11:13,138
+that diversity was 
+a problem within tech,
+
+252
+00:11:13,171 --> 00:11:16,941
+but when companies started 
+putting these numbers out there
+
+253
+00:11:16,975 --> 00:11:19,077
+with full diversity 
+disclosure reports,
+
+254
+00:11:19,110 --> 00:11:21,279
+it became very obvious for 
+people outside the industry
+
+255
+00:11:21,312 --> 00:11:23,882
+to look at those and say, "Wow, there really is a problem.
+
+256
+00:11:23,915 --> 00:11:25,617
+"This is something 
+we need to be focusing on
+
+257
+00:11:25,650 --> 00:11:27,919
+and trying to address."
+
+258
+00:11:27,952 --> 00:11:37,996
+♪♪♪
+
+259
+00:11:37,996 --> 00:11:42,934
+♪♪♪
+
+260
+00:11:42,967 --> 00:11:50,074
+♪♪♪
+
+261
+00:11:50,108 --> 00:11:51,409
+(Jocelyn Goldfein) 
+It's not a pretty picture.
+
+262
+00:11:51,442 --> 00:11:52,977
+If you look at 
+the different paths
+
+263
+00:11:53,011 --> 00:11:54,379
+that computer scientists take,
+
+264
+00:11:54,412 --> 00:11:56,281
+essentially 
+the proportion of women
+
+265
+00:11:56,314 --> 00:11:59,083
+just successively shrinks 
+at every stage.
+
+266
+00:11:59,117 --> 00:12:00,251
+So, however few CS majors,
+
+267
+00:12:00,285 --> 00:12:02,453
+there are there are even 
+fewer software engineers.
+
+268
+00:12:02,487 --> 00:12:06,057
+There become even fewer very senior software engineers,
+
+269
+00:12:06,090 --> 00:12:09,861
+even fewer founders 
+of companies.
+
+270
+00:12:10,195 --> 00:12:12,230
+We have got to 
+figure out a way
+
+271
+00:12:12,263 --> 00:12:16,000
+to make the pipeline 
+of tech talent more robust.
+
+272
+00:12:16,034 --> 00:12:17,502
+And in order to do that,
+
+273
+00:12:17,535 --> 00:12:21,005
+we have to look at communities 
+that, until this point,
+
+274
+00:12:21,039 --> 00:12:24,676
+have really been 
+overlooked and underutilized.
+
+275
+00:12:24,709 --> 00:12:25,944
+This means that 
+we have to ensure
+
+276
+00:12:25,977 --> 00:12:29,647
+that people of color are part 
+of this tech talent pipeline.
+
+277
+00:12:29,681 --> 00:12:31,516
+We have to ensure 
+that women and girls
+
+278
+00:12:31,549 --> 00:12:33,651
+are part of this 
+tech talent pipeline.
+
+279
+00:12:33,685 --> 00:12:36,454
+We have to ensure that 
+we're looking in all corners
+
+280
+00:12:36,487 --> 00:12:38,223
+and crannies of the nation
+
+281
+00:12:38,256 --> 00:12:41,559
+to make sure that we're reaching 
+people who have the talent,
+
+282
+00:12:41,593 --> 00:12:45,663
+need the skill, need the context 
+for being able to succeed.
+
+283
+00:12:45,697 --> 00:12:57,008
+♪♪♪
+
+284
+00:13:05,183 --> 00:13:06,517
+I fight like a girl.
+
+285
+00:13:07,986 --> 00:13:10,188
+(Aliya Rahman) 
+I don't believe coding 
+can be the great equalizer
+
+286
+00:13:10,221 --> 00:13:12,357
+because there are so many things that we have to fix,
+
+287
+00:13:12,390 --> 00:13:16,394
+but it is a medium 
+towards equality.
+
+288
+00:13:17,495 --> 00:13:20,698
+Good morning! 
+How you doin'?
+
+289
+00:13:20,732 --> 00:13:23,067
+(Aliya Rahman) 
+We believe that the 
+reason that there's a gap
+
+290
+00:13:23,101 --> 00:13:25,503
+is actually related to some 
+really real structural factors.
+
+291
+00:13:25,536 --> 00:13:27,205
+Part of that is 
+people's ability to, like,
+
+292
+00:13:27,238 --> 00:13:29,307
+step away from their life to, 
+like, learn this skill.
+
+293
+00:13:29,340 --> 00:13:36,581
+♪♪♪
+
+294
+00:13:36,614 --> 00:13:39,083
+We had 425 applications.
+
+295
+00:13:39,117 --> 00:13:40,585
+We asked folks 
+to talk in that application
+
+296
+00:13:40,618 --> 00:13:43,187
+about how they saw themselves 
+as part of a community
+
+297
+00:13:43,221 --> 00:13:45,556
+that was underrepresented 
+in the tech movement,
+
+298
+00:13:45,590 --> 00:13:47,425
+and then talk about 
+how they would use apps
+
+299
+00:13:47,458 --> 00:13:50,428
+to improve the condition 
+of those communities.
+
+300
+00:13:51,029 --> 00:13:54,399
+So, all of them are people 
+of color, 9 of 12 are women.
+
+301
+00:13:54,432 --> 00:13:55,733
+We have someone 
+from a reservation.
+
+302
+00:13:55,767 --> 00:13:57,635
+We've got folks who are LGBT.
+
+303
+00:13:57,669 --> 00:13:59,504
+And most of them 
+did not go to college.
+
+304
+00:13:59,537 --> 00:14:01,205
+(Aliya Rahman, teaching) 
+All right so, welcome back.
+
+305
+00:14:01,239 --> 00:14:03,441
+We had a big week 
+last week, right?
+
+306
+00:14:03,474 --> 00:14:04,709
+Fun stuff.
+
+307
+00:14:04,742 --> 00:14:06,644
+(Aliya Rahman) 
+I actually worked 
+in social justice work,
+
+308
+00:14:06,678 --> 00:14:07,879
+and community organizing,
+
+309
+00:14:07,912 --> 00:14:11,249
+and activism for a lot of years, 
+and one of the things I found
+
+310
+00:14:11,282 --> 00:14:14,485
+is that I kept hiring 
+really smart women,
+
+311
+00:14:14,519 --> 00:14:16,020
+people of color, et cetera,
+
+312
+00:14:16,054 --> 00:14:17,655
+to the same kind of 
+low-level jobs,
+
+313
+00:14:17,689 --> 00:14:20,425
+when really, they had 
+fantastic ideas about tech
+
+314
+00:14:20,458 --> 00:14:23,094
+and how we could do what 
+we were doing much better.
+
+315
+00:14:23,127 --> 00:14:25,596
+I built a lot of our own 
+software and tech on the fly
+
+316
+00:14:25,630 --> 00:14:26,764
+just 'cause I had 
+a programming background.
+
+317
+00:14:26,798 --> 00:14:29,534
+And I thought we should do something about that situation,
+
+318
+00:14:29,567 --> 00:14:31,536
+and that the folks 
+that all this kind of work
+
+319
+00:14:31,569 --> 00:14:33,071
+is trying to reach out to,
+
+320
+00:14:33,104 --> 00:14:34,405
+the communities 
+it's trying to impact,
+
+321
+00:14:34,439 --> 00:14:35,807
+those people 
+should be the people
+
+322
+00:14:35,840 --> 00:14:37,508
+who are making decisions, 
+and making tools,
+
+323
+00:14:37,542 --> 00:14:39,744
+and being part 
+of the actual design,
+
+324
+00:14:39,777 --> 00:14:43,281
+rather than just the users 
+and consumers of technology.
+
+325
+00:14:43,314 --> 00:14:47,385
+Code is mobility, and you know, racial minority groups,
+
+326
+00:14:47,418 --> 00:14:49,554
+women, poor folks, 
+have always fought
+
+327
+00:14:49,587 --> 00:14:53,091
+to have access to those 
+conduits towards power.
+
+328
+00:14:56,194 --> 00:14:58,830
+(male news anchor) 
+Tonight, 
+the Crimson Controversy,
+
+329
+00:14:58,863 --> 00:15:02,233
+seeing red at 
+Harvard University.
+
+330
+00:15:03,201 --> 00:15:05,737
+(female reporter) 
+On the most prestigious 
+college campus in the country,
+
+331
+00:15:05,770 --> 00:15:07,505
+Harvard President Larry Summers
+
+332
+00:15:07,538 --> 00:15:10,274
+floated the idea that when 
+it comes to math and science,
+
+333
+00:15:10,308 --> 00:15:12,610
+there may be 
+an innate difference
+
+334
+00:15:12,643 --> 00:15:14,545
+between men and women.
+
+335
+00:15:14,579 --> 00:15:17,148
+MIT biology professor, 
+Nancy Hopkins,
+
+336
+00:15:17,181 --> 00:15:21,085
+who studies genetics, was so offended she walked out.
+
+337
+00:15:21,119 --> 00:15:24,655
+When you send this message 
+that maybe it's in your genes,
+
+338
+00:15:24,689 --> 00:15:27,191
+you're asking women 
+to come to work every day
+
+339
+00:15:27,225 --> 00:15:29,594
+and prove over 
+and over and over,
+
+340
+00:15:29,627 --> 00:15:32,330
+"Yes, I really am good enough 
+to be here,"
+
+341
+00:15:32,363 --> 00:15:34,832
+and that is exhausting.
+
+342
+00:15:34,866 --> 00:15:36,868
+What is the problem though 
+with the precise words
+
+343
+00:15:36,901 --> 00:15:38,803
+that Dr. Summers used?
+
+344
+00:15:38,836 --> 00:15:41,272
+Do you dispute the fact 
+that innate differences
+
+345
+00:15:41,305 --> 00:15:43,574
+may play a role in why women 
+are underrepresented
+
+346
+00:15:43,608 --> 00:15:46,878
+at top levels of math 
+and science faculty?
+
+347
+00:15:46,911 --> 00:15:48,880
+I think there's no question 
+there are differences
+
+348
+00:15:48,913 --> 00:15:51,215
+between women and men.
+
+349
+00:15:51,249 --> 00:15:54,252
+But when we use 
+the word "innate,"
+
+350
+00:15:54,285 --> 00:15:57,488
+then we move 
+into a different arena.
+
+351
+00:15:57,522 --> 00:16:01,726
+I do find it interesting 
+that in all sorts of fields,
+
+352
+00:16:01,759 --> 00:16:05,563
+women are now more 
+represented than in the past.
+
+353
+00:16:05,596 --> 00:16:09,467
+Did we all of a sudden 
+become innately more capable,
+
+354
+00:16:09,500 --> 00:16:12,336
+or does this have to do 
+with the circumstances?
+
+355
+00:16:12,370 --> 00:16:16,474
+Does this have to do 
+with plain old discrimination?
+
+356
+00:16:16,507 --> 00:16:28,352
+♪♪♪
+
+357
+00:16:28,386 --> 00:16:30,388
+In neuroscience, 
+we have no reason to think
+
+358
+00:16:30,421 --> 00:16:33,558
+that there's anything about 
+a male brain or female brain
+
+359
+00:16:33,591 --> 00:16:36,260
+that makes it different 
+in terms of its potential.
+
+360
+00:16:36,294 --> 00:16:40,531
+Now, that said, if an individual 
+or a group of individuals
+
+361
+00:16:40,565 --> 00:16:42,400
+is better at programming,
+
+362
+00:16:42,433 --> 00:16:45,770
+then that has to be 
+coming from the brain.
+
+363
+00:16:45,803 --> 00:16:47,939
+The big mistake people make 
+is assuming
+
+364
+00:16:47,972 --> 00:16:50,274
+that if it's coming 
+from the brain,
+
+365
+00:16:50,308 --> 00:16:52,643
+then it somehow 
+must be innate.
+
+366
+00:16:52,677 --> 00:16:55,913
+Because we know from decades and decades of neuroscience research
+
+367
+00:16:55,947 --> 00:16:59,750
+that the brain, both its 
+function and even its structure,
+
+368
+00:16:59,784 --> 00:17:02,854
+are powerfully influenced 
+by experience.
+
+369
+00:17:02,887 --> 00:17:05,223
+I don't believe 
+that there's any difference
+
+370
+00:17:05,256 --> 00:17:06,891
+between 
+the male and female brain
+
+371
+00:17:06,924 --> 00:17:09,827
+that would make one gender 
+be more successful
+
+372
+00:17:09,861 --> 00:17:12,396
+at programming than the other.
+
+373
+00:17:12,430 --> 00:17:17,635
+If you start at the beginning 
+with exactly the same IQ,
+
+374
+00:17:17,668 --> 00:17:20,338
+male and female, 
+they would end up,
+
+375
+00:17:20,371 --> 00:17:25,610
+given the same schooling, 
+with the same ability to code.
+
+376
+00:17:25,643 --> 00:17:27,678
+(Jennifer Raymond) 
+Boys and girls are treated 
+differently from birth
+
+377
+00:17:27,712 --> 00:17:30,481
+by their parents, by their 
+teachers, by their peers.
+
+378
+00:17:30,515 --> 00:17:32,283
+So, imagine, 
+by the time you look
+
+379
+00:17:32,316 --> 00:17:33,751
+at a bunch of college students,
+
+380
+00:17:33,784 --> 00:17:35,987
+they've had not just weeks 
+or hours of training,
+
+381
+00:17:36,020 --> 00:17:41,325
+but 20 years of their brain 
+being trained by experience.
+
+382
+00:17:41,359 --> 00:17:43,995
+There will be differences 
+in their brains.
+
+383
+00:17:44,028 --> 00:17:45,997
+But what doesn't make sense 
+is a lot of people
+
+384
+00:17:46,030 --> 00:17:47,198
+then conclude that 
+those differences somehow
+
+385
+00:17:47,231 --> 00:17:50,735
+were genetically predetermined, 
+when we know that experience
+
+386
+00:17:50,768 --> 00:17:52,770
+can produce those changes.
+
+387
+00:17:53,571 --> 00:17:57,909
+[children chattering]
+
+388
+00:17:57,942 --> 00:17:59,443
+(Grechen Huebner) 
+They see a game, right?
+
+389
+00:17:59,477 --> 00:18:01,546
+They don't think, "Oh, I'm learning programming,"
+
+390
+00:18:01,579 --> 00:18:03,247
+or "Oh, I'm learning how to code
+
+391
+00:18:03,281 --> 00:18:05,416
+"and I'm gonna decide 
+to play this game
+
+392
+00:18:05,449 --> 00:18:07,285
+because 
+I'm a girl or I'm a boy."
+
+393
+00:18:07,318 --> 00:18:08,619
+They just see a fun game.
+
+394
+00:18:08,653 --> 00:18:21,699
+♪♪♪
+
+395
+00:18:21,732 --> 00:18:24,502
+The biggest hindrance for 
+them to start learning logic
+
+396
+00:18:24,535 --> 00:18:25,870
+and programming logic
+
+397
+00:18:25,903 --> 00:18:28,573
+and to think computationally 
+was the syntax.
+
+398
+00:18:28,606 --> 00:18:31,008
+So, we removed 
+the necessity of syntax.
+
+399
+00:18:31,042 --> 00:18:32,543
+We added symbols.
+
+400
+00:18:32,577 --> 00:18:33,878
+Everything is very abstract.
+
+401
+00:18:33,911 --> 00:18:35,880
+And so, they didn't need 
+to know how to read.
+
+402
+00:18:35,913 --> 00:18:37,081
+They don't even 
+need to speak English
+
+403
+00:18:37,114 --> 00:18:40,484
+in order to start learning 
+programming with Kodable.
+
+404
+00:18:40,518 --> 00:18:42,987
+We need more girls, we need more women interested in programming,
+
+405
+00:18:43,020 --> 00:18:44,589
+but we need more people
+
+406
+00:18:44,622 --> 00:18:46,357
+interested in programming 
+in general.
+
+407
+00:18:46,390 --> 00:18:49,026
+We don't have enough. 
+We don't have nearly enough.
+
+408
+00:18:49,060 --> 00:18:50,995
+So, we wanted to make 
+something that was fun
+
+409
+00:18:51,028 --> 00:18:53,030
+whether you 
+were a boy or a girl,
+
+410
+00:18:53,064 --> 00:18:56,334
+something that would boost 
+your interest in programming
+
+411
+00:18:56,367 --> 00:19:00,371
+and give you the skills to be 
+able to learn it later in life.
+
+412
+00:19:00,404 --> 00:19:06,477
+♪♪♪
+
+413
+00:19:06,510 --> 00:19:08,879
+All children are so talented 
+and so creative.
+
+414
+00:19:08,913 --> 00:19:11,315
+So, as these tools 
+become less expensive,
+
+415
+00:19:11,349 --> 00:19:13,484
+and more available, 
+and more embedded in class,
+
+416
+00:19:13,517 --> 00:19:15,753
+and more kids get exposed 
+at earlier ages,
+
+417
+00:19:15,786 --> 00:19:18,556
+they'll be able to make and 
+affect the world around them.
+
+418
+00:19:18,589 --> 00:19:22,059
+Computer science 
+should be a requirement
+
+419
+00:19:22,093 --> 00:19:26,664
+in all U.S. public schools, 
+and charter schools,
+
+420
+00:19:26,697 --> 00:19:28,065
+and private schools.
+
+421
+00:19:28,099 --> 00:19:31,702
+But we're paying our 
+tax dollars, and as an employer,
+
+422
+00:19:31,736 --> 00:19:35,773
+I'm not getting what 
+I need from U.S. public schools
+
+423
+00:19:35,806 --> 00:19:38,609
+because computer science 
+is not being taught.
+
+424
+00:19:38,643 --> 00:19:51,689
+♪♪♪
+
+425
+00:19:51,722 --> 00:19:53,424
+The biggest problem we have
+
+426
+00:19:53,457 --> 00:19:56,894
+is equipping enough teachers 
+of computer science.
+
+427
+00:19:56,927 --> 00:20:00,631
+Because it has not 
+been required or even present,
+
+428
+00:20:00,665 --> 00:20:02,433
+we do not have enough teachers
+
+429
+00:20:02,466 --> 00:20:06,137
+who are trained 
+to teach the curriculum.
+
+430
+00:20:06,170 --> 00:20:12,743
+♪♪♪
+
+431
+00:20:12,777 --> 00:20:16,113
+Schools can be technology rich, 
+but curriculum poor.
+
+432
+00:20:16,147 --> 00:20:20,584
+And that what is really 
+needed is the curriculum,
+
+433
+00:20:20,618 --> 00:20:23,688
+and the teachers, 
+and the opportunities
+
+434
+00:20:23,721 --> 00:20:27,692
+to experiment and explore 
+with the technology.
+
+435
+00:20:27,725 --> 00:20:31,162
+Most students have 
+no exposure to programming
+
+436
+00:20:31,195 --> 00:20:32,997
+as a young person.
+
+437
+00:20:33,030 --> 00:20:35,533
+And I think that 
+if it was done well,
+
+438
+00:20:35,566 --> 00:20:38,102
+and part of the curriculum, 
+really creating technology,
+
+439
+00:20:38,135 --> 00:20:39,870
+innovating, 
+giving them the tools
+
+440
+00:20:39,904 --> 00:20:41,939
+that they actually can create 
+things that are meaningful
+
+441
+00:20:41,972 --> 00:20:43,507
+and relevant to their lives,
+
+442
+00:20:43,541 --> 00:20:46,977
+could have these 
+other really positive effects.
+
+443
+00:20:47,011 --> 00:20:50,114
+(Megan Smith) 
+People think that 
+it's a specific subject,
+
+444
+00:20:50,147 --> 00:20:51,749
+when it's actually 
+part of everything.
+
+445
+00:20:51,782 --> 00:20:53,150
+It can be part of history.
+
+446
+00:20:53,184 --> 00:20:54,685
+It can be part of English.
+
+447
+00:20:54,719 --> 00:20:57,455
+It can be part 
+of all of your subjects.
+
+448
+00:20:58,789 --> 00:21:01,692
+Of course we wanna teach 
+kids to read and to write,
+
+449
+00:21:01,726 --> 00:21:03,027
+to express themselves,
+
+450
+00:21:03,060 --> 00:21:05,796
+but we never let them 
+express themselves
+
+451
+00:21:05,830 --> 00:21:07,698
+in a mathematical, 
+scientific way.
+
+452
+00:21:07,732 --> 00:21:09,567
+So, they need to be able 
+to make things.
+
+453
+00:21:09,600 --> 00:21:12,036
+They need to be able to do innovation, engineering, coding.
+
+454
+00:21:12,069 --> 00:21:16,507
+That's all part of expression 
+in the technical realm.
+
+455
+00:21:23,848 --> 00:21:27,084
+(Lauren) You see this game and then you just wonder, like,
+
+456
+00:21:27,118 --> 00:21:30,121
+"Wow, how does 
+someone make this?"
+
+457
+00:21:30,154 --> 00:21:32,723
+Like, 
+"Maybe I want to try that too."
+
+458
+00:21:32,757 --> 00:21:36,494
+I like coding 
+because instead of, like,
+
+459
+00:21:36,527 --> 00:21:40,664
+us being consumers we 
+could be like a producer of it.
+
+460
+00:21:40,698 --> 00:21:44,668
+So, instead of us having to buy 
+it, we could make our own game.
+
+461
+00:21:46,637 --> 00:21:49,540
+(Kimberly Bryant) 
+I think that all-girl events 
+really give the girls
+
+462
+00:21:49,573 --> 00:21:51,876
+an environment 
+where they feel comfortable,
+
+463
+00:21:51,909 --> 00:21:54,812
+they feel supported, and they 
+can really just be themselves.
+
+464
+00:21:54,845 --> 00:21:56,680
+You know, uniquely themselves,
+
+465
+00:21:56,714 --> 00:21:59,917
+and really learn in this 
+environment that's unencumbered
+
+466
+00:21:59,950 --> 00:22:03,220
+by any stereotypes 
+of what they can and can't do.
+
+467
+00:22:03,254 --> 00:22:05,823
+And I think that's what 
+really helps them to thrive.
+
+468
+00:22:07,725 --> 00:22:10,094
+Maybe we can--so, we can 
+break out into two groups,
+
+469
+00:22:10,127 --> 00:22:11,962
+focus on those 
+two problem statements,
+
+470
+00:22:11,996 --> 00:22:14,632
+and start coming up 
+with solutions.
+
+471
+00:22:14,665 --> 00:22:16,901
+(Kimberly Bryant) 
+Introducing girls 
+to activities
+
+472
+00:22:16,934 --> 00:22:18,269
+like being in a hackathon,
+
+473
+00:22:18,302 --> 00:22:21,038
+which is something 
+that's really endemic
+
+474
+00:22:21,071 --> 00:22:24,008
+to the tech culture, 
+and doing it in a way
+
+475
+00:22:24,041 --> 00:22:26,110
+where they can--it's not 
+just that they'll always
+
+476
+00:22:26,143 --> 00:22:28,179
+hack with girls 
+and only girls,
+
+477
+00:22:28,212 --> 00:22:31,515
+but this really gives 
+that seed of self-confidence.
+
+478
+00:22:31,549 --> 00:22:32,883
+And that's what 
+we're trying to do,
+
+479
+00:22:32,917 --> 00:22:35,953
+slowly change the ratio 
+and perception
+
+480
+00:22:35,986 --> 00:22:39,924
+of what girls can do, 
+and starting with themselves,
+
+481
+00:22:39,957 --> 00:22:41,959
+so then they can go back 
+into the broader culture
+
+482
+00:22:41,992 --> 00:22:44,161
+and really make a difference.
+
+483
+00:22:46,330 --> 00:22:48,999
+We believe in really 
+starting early in the pipeline
+
+484
+00:22:49,033 --> 00:22:52,736
+and staying with our girls until they get through high school,
+
+485
+00:22:52,770 --> 00:22:54,872
+and then hopefully decide 
+to go to college
+
+486
+00:22:54,905 --> 00:22:57,608
+and major in some type 
+of technical career.
+
+487
+00:22:59,310 --> 00:23:01,879
+(Hanna Clark) I've been thinking about some things in software engineering.
+
+488
+00:23:01,912 --> 00:23:03,814
+I also have 
+a couple startup ideas
+
+489
+00:23:03,848 --> 00:23:05,149
+floating around in my head.
+
+490
+00:23:05,182 --> 00:23:10,187
+So, it'll all depend 
+which one happens first.
+
+491
+00:23:10,221 --> 00:23:13,157
+(Lena Allston) 
+Girls aren't really encouraged 
+to pursue STEM careers,
+
+492
+00:23:13,190 --> 00:23:15,559
+in computer science especially.
+
+493
+00:23:15,593 --> 00:23:17,294
+A lot of times they're 
+overlooked because, you know,
+
+494
+00:23:17,328 --> 00:23:19,063
+it's the boys 
+that are good at science
+
+495
+00:23:19,096 --> 00:23:22,633
+and it's the boys that are 
+taking apart computers at age 9.
+
+496
+00:23:22,666 --> 00:23:24,068
+And so, girls are 
+just not encouraged
+
+497
+00:23:24,101 --> 00:23:25,603
+to do that kind of stuff,
+
+498
+00:23:25,636 --> 00:23:27,104
+and they're kind of 
+pushed to the side
+
+499
+00:23:27,137 --> 00:23:28,939
+when it comes to 
+the heavy duty tech.
+
+500
+00:23:28,973 --> 00:23:30,140
+And I'm a perfect example of it.
+
+501
+00:23:30,174 --> 00:23:32,309
+Like, I didn't even know 
+what computer scientists did
+
+502
+00:23:32,343 --> 00:23:35,312
+until my sophomore year 
+of college.
+
+503
+00:23:35,346 --> 00:23:36,847
+Having women in computer science
+
+504
+00:23:36,881 --> 00:23:39,283
+and having African Americans 
+in the industry,
+
+505
+00:23:39,316 --> 00:23:42,286
+it just adds another layer 
+of diversity.
+
+506
+00:23:42,319 --> 00:23:45,089
+You know, diversity of thought, diversity of perspective.
+
+507
+00:23:45,122 --> 00:23:46,991
+(Hanna Clark) 
+We need a balance.
+
+508
+00:23:47,024 --> 00:23:48,626
+Different people 
+and different perspectives
+
+509
+00:23:48,659 --> 00:23:50,728
+are gonna bring a balance 
+and they're gonna result
+
+510
+00:23:50,761 --> 00:23:52,897
+in things being 
+more well-rounded.
+
+511
+00:23:52,930 --> 00:23:56,734
+And otherwise, you may 
+end up with one perspective
+
+512
+00:23:56,767 --> 00:24:00,704
+and it's not going to be 
+as beneficial to everybody.
+
+513
+00:24:12,716 --> 00:24:14,318
+(female reporter) 
+The U.S. transportation 
+department announced
+
+514
+00:24:14,351 --> 00:24:16,020
+new rules for airbags
+
+515
+00:24:16,053 --> 00:24:18,255
+to eliminate deaths 
+attributed to them.
+
+516
+00:24:18,289 --> 00:24:22,826
+In about 160 cases, airbags 
+have been blamed for death.
+
+517
+00:24:25,262 --> 00:24:27,264
+(Ari Schlesinger) 
+Unfortunately, 
+the first round of airbags
+
+518
+00:24:27,298 --> 00:24:30,367
+killed a lot 
+of women and children,
+
+519
+00:24:30,401 --> 00:24:32,903
+and it turns out 
+that the airbags were developed
+
+520
+00:24:32,937 --> 00:24:36,040
+for the average specs 
+of the engineer on the team,
+
+521
+00:24:36,073 --> 00:24:39,276
+and those engineers 
+happened to all be white men.
+
+522
+00:24:39,310 --> 00:24:43,414
+And so, airbags were not 
+developed with women in mind,
+
+523
+00:24:43,447 --> 00:24:47,918
+and as a result, ended up 
+killing a lot of people.
+
+524
+00:24:47,952 --> 00:24:52,089
+And if you had had women on that team, you'd think that,
+
+525
+00:24:52,122 --> 00:24:55,726
+"Hey, this airbag might kill me. I am not as tall as you are.
+
+526
+00:24:55,759 --> 00:24:57,294
+I don't weigh 
+as much as you do.
+
+527
+00:24:57,328 --> 00:24:58,963
+My frame is not the same,"
+
+528
+00:24:58,996 --> 00:25:01,165
+that conversation 
+would have happened.
+
+529
+00:25:03,434 --> 00:25:06,370
+So, there's a long history 
+across all sorts of fields
+
+530
+00:25:06,403 --> 00:25:11,942
+that diversity is critically 
+important if the innovations
+
+531
+00:25:11,976 --> 00:25:17,715
+are going to positively 
+impact all people.
+
+532
+00:25:17,748 --> 00:25:20,351
+When the first voice recognition systems were designed,
+
+533
+00:25:20,384 --> 00:25:22,386
+it was by men.
+
+534
+00:25:22,419 --> 00:25:25,723
+They were using 
+male voices to test it.
+
+535
+00:25:25,756 --> 00:25:29,259
+And what ended up happening is 
+that women could not be heard.
+
+536
+00:25:29,293 --> 00:25:31,295
+Not only could 
+women's voices not be heard,
+
+537
+00:25:31,328 --> 00:25:33,764
+but then when they were 
+doing voice recognition
+
+538
+00:25:33,797 --> 00:25:37,968
+and video tracking, 
+women could not be seen.
+
+539
+00:25:39,737 --> 00:25:43,173
+(Roz Ho) 
+Back in the late '90s, 
+we were putting a feature
+
+540
+00:25:43,207 --> 00:25:45,009
+in all of the Office products--
+
+541
+00:25:45,042 --> 00:25:47,077
+Word, Excel, Power Point--
+
+542
+00:25:47,111 --> 00:25:49,213
+that's called 
+the Office Assistant.
+
+543
+00:25:49,246 --> 00:25:52,149
+And it's an animated character 
+that pops up
+
+544
+00:25:52,182 --> 00:25:55,986
+and gives you help 
+on what you're doing.
+
+545
+00:25:56,020 --> 00:25:58,322
+We did a bunch 
+of focus group testing
+
+546
+00:25:58,355 --> 00:26:01,825
+and the results came back 
+kind of negative.
+
+547
+00:26:01,859 --> 00:26:05,896
+Most of the women thought 
+the characters were too male.
+
+548
+00:26:05,929 --> 00:26:08,999
+And that they were 
+leering at them.
+
+549
+00:26:09,033 --> 00:26:10,734
+So, we're sitting 
+in a conference room.
+
+550
+00:26:10,768 --> 00:26:13,771
+There's me and, I think, 
+like 11 or 12 guys.
+
+551
+00:26:13,804 --> 00:26:15,973
+And we're going through 
+the results and they said,
+
+552
+00:26:16,006 --> 00:26:17,808
+"I don't see it.
+
+553
+00:26:17,841 --> 00:26:19,877
+I just don't know 
+what they're talking about."
+
+554
+00:26:19,910 --> 00:26:21,812
+I said, "Guys, guys, look.
+
+555
+00:26:21,845 --> 00:26:23,847
+"I'm a woman 
+and I'm gonna tell you
+
+556
+00:26:23,881 --> 00:26:27,284
+"these animated characters 
+are male-looking.
+
+557
+00:26:27,317 --> 00:26:31,255
+"And you went and spent 
+$100,000 on a focus group.
+
+558
+00:26:31,288 --> 00:26:32,956
+"You went and asked 
+all these people,
+
+559
+00:26:32,990 --> 00:26:36,427
+and you're just going to discard all of this information?"
+
+560
+00:26:36,460 --> 00:26:39,229
+So, we ended up shipping 
+with ten male characters
+
+561
+00:26:39,263 --> 00:26:41,932
+and two female characters.
+
+562
+00:26:41,965 --> 00:26:44,902
+And I just thought 
+that was so instructive
+
+563
+00:26:44,935 --> 00:26:48,806
+because they were ready 
+to toss away data
+
+564
+00:26:48,839 --> 00:26:51,809
+because they couldn't 
+see it for themselves.
+
+565
+00:26:52,276 --> 00:26:55,145
+In computer science, 
+an important mantra is,
+
+566
+00:26:55,179 --> 00:26:56,880
+"You are not your user."
+
+567
+00:26:56,914 --> 00:26:58,449
+There's a narrative in this
+
+568
+00:26:58,482 --> 00:27:00,284
+"Women in computer 
+science" story
+
+569
+00:27:00,317 --> 00:27:02,920
+which is saying men 
+are gonna make mistakes
+
+570
+00:27:02,953 --> 00:27:05,122
+if they're designing for women,
+
+571
+00:27:05,155 --> 00:27:08,292
+and that we need women if women 
+are gonna be using the tools.
+
+572
+00:27:08,325 --> 00:27:11,328
+And I think that that 
+is letting people off easy.
+
+573
+00:27:11,361 --> 00:27:13,063
+Women aren't this magical sauce
+
+574
+00:27:13,097 --> 00:27:14,398
+that we're gonna 
+sprinkle on everybody
+
+575
+00:27:14,431 --> 00:27:16,467
+and they're gonna 
+think about their users.
+
+576
+00:27:16,500 --> 00:27:18,969
+Every developer, 
+every person who's designing,
+
+577
+00:27:19,002 --> 00:27:20,504
+needs to be thinking 
+about their users.
+
+578
+00:27:21,171 --> 00:27:23,240
+To be a programmer, 
+you have to do two things.
+
+579
+00:27:23,273 --> 00:27:26,110
+You have to be able to think 
+logically, in an algorithm.
+
+580
+00:27:26,143 --> 00:27:27,511
+Step one, step two, step three.
+
+581
+00:27:27,544 --> 00:27:29,847
+Either/or, and/or.
+
+582
+00:27:29,880 --> 00:27:33,851
+But you also have to be able 
+to translate real world problems
+
+583
+00:27:33,884 --> 00:27:37,121
+into a machine's language 
+so you can say,
+
+584
+00:27:37,154 --> 00:27:39,056
+"Here's what 
+we're trying to solve
+
+585
+00:27:39,089 --> 00:27:40,991
+and here are the steps 
+to do it."
+
+586
+00:27:45,429 --> 00:27:48,098
+(male instructor) 
+The electromechanical 
+differential analyzer
+
+587
+00:27:48,132 --> 00:27:51,268
+performs scientific 
+and industrial marvels.
+
+588
+00:27:51,301 --> 00:27:54,338
+(Helen Bradley) 
+Grace Hopper was the first 
+person who came up with
+
+589
+00:27:54,371 --> 00:27:57,975
+the concept of real programming languages and compilers.
+
+590
+00:27:58,008 --> 00:27:59,309
+And what she enabled
+
+591
+00:27:59,343 --> 00:28:01,879
+was computers 
+to be used in business,
+
+592
+00:28:01,912 --> 00:28:04,848
+'cause now you could write 
+more complex programs.
+
+593
+00:28:07,117 --> 00:28:09,253
+(male news anchor) 
+Captain Hopper 
+is a wiz at mathematics,
+
+594
+00:28:09,286 --> 00:28:11,088
+some would say a genius,
+
+595
+00:28:11,121 --> 00:28:13,624
+one of that small band 
+of brothers and sisters
+
+596
+00:28:13,657 --> 00:28:15,893
+who ushered in 
+the computer revolution.
+
+597
+00:28:15,926 --> 00:28:19,563
+And as far as we've progressed since this vacuum-tubed monster,
+
+598
+00:28:19,596 --> 00:28:23,467
+Captain Hopper says, 
+"We ain't seen nothin' yet."
+
+599
+00:28:23,500 --> 00:28:26,170
+You talk a lot about 
+the computer revolution.
+
+600
+00:28:26,203 --> 00:28:28,906
+I thought, 
+we're in it and it's over.
+
+601
+00:28:28,939 --> 00:28:30,240
+No, we're only 
+at the beginning.
+
+602
+00:28:30,274 --> 00:28:31,575
+We've been through 
+the preliminaries.
+
+603
+00:28:31,608 --> 00:28:33,110
+(news anchor) 
+Well what's it gonna be like?
+
+604
+00:28:33,143 --> 00:28:35,179
+We've got the Model-T.
+
+605
+00:28:36,013 --> 00:28:38,148
+Grace Hopper had 
+a piss-and-vinegar personality.
+
+606
+00:28:38,182 --> 00:28:39,883
+She was like 
+a great Navy person.
+
+607
+00:28:39,917 --> 00:28:41,418
+She could curse 
+with the best of 'em,
+
+608
+00:28:41,451 --> 00:28:46,156
+and she ran that crew as if 
+she were a Navy commander.
+
+609
+00:28:48,192 --> 00:28:50,928
+She stays in the Navy 
+the rest of her career.
+
+610
+00:28:50,961 --> 00:28:53,297
+In fact, they keep 
+extending her retirement
+
+611
+00:28:53,330 --> 00:28:55,365
+because she's writing 
+programming languages
+
+612
+00:28:55,399 --> 00:28:58,035
+for the Navy 
+all the way through.
+
+613
+00:28:58,068 --> 00:29:01,104
+People believe that she 
+coined the term, "Bug,"
+
+614
+00:29:01,138 --> 00:29:05,042
+because of a moth that 
+was found in the vacuum tubes.
+
+615
+00:29:05,075 --> 00:29:06,376
+So then, they kept saying
+
+616
+00:29:06,410 --> 00:29:09,213
+that they would have 
+a bug in a system.
+
+617
+00:29:09,246 --> 00:29:11,415
+(Nathan Ensmenger) 
+She was working 
+on one of her early machines
+
+618
+00:29:11,448 --> 00:29:13,083
+and found this moth.
+
+619
+00:29:13,116 --> 00:29:15,385
+And in her lab notebooks 
+from this period,
+
+620
+00:29:15,419 --> 00:29:18,589
+we have this description 
+of the very first computer bug
+
+621
+00:29:18,622 --> 00:29:23,193
+and it's taped 
+right into the notebook.
+
+622
+00:29:23,227 --> 00:29:24,428
+And debugging, of course,
+
+623
+00:29:24,461 --> 00:29:26,697
+is one of the things that's 
+so hard about programming.
+
+624
+00:29:26,730 --> 00:29:28,665
+It never quite works 
+the first time around
+
+625
+00:29:28,699 --> 00:29:31,401
+and the context 
+is always changing.
+
+626
+00:29:31,435 --> 00:29:34,204
+And so, she's not 
+just giving it a language,
+
+627
+00:29:34,238 --> 00:29:37,374
+she's also really defining 
+what is important
+
+628
+00:29:37,407 --> 00:29:39,142
+and what's intellectually 
+challenging
+
+629
+00:29:39,176 --> 00:29:40,644
+and stimulating 
+about programming.
+
+630
+00:29:42,312 --> 00:29:44,715
+(male instructor) 
+When the first electronic 
+computer was planned,
+
+631
+00:29:44,748 --> 00:29:47,050
+it was estimated that there 
+could never be a market
+
+632
+00:29:47,084 --> 00:29:50,120
+for more than 2 or 3.
+
+633
+00:29:50,153 --> 00:29:54,324
+Today, there are more 
+than 5,000 computers.
+
+634
+00:29:55,626 --> 00:29:58,195
+(Nathan Ensmenger) 
+In the 1950s 
+and the early 1960s,
+
+635
+00:29:58,228 --> 00:30:00,530
+most estimates 
+suggest at least 30%
+
+636
+00:30:00,564 --> 00:30:03,400
+and as many as 50% 
+of all programmers
+
+637
+00:30:03,433 --> 00:30:06,436
+in this period 
+would have been women.
+
+638
+00:30:06,470 --> 00:30:09,573
+There's this wonderful article 
+in the April 1967 issue
+
+639
+00:30:09,606 --> 00:30:11,475
+of "Cosmopolitan Magazine."
+
+640
+00:30:11,508 --> 00:30:13,243
+It's called 
+"The Computer Girls,"
+
+641
+00:30:13,277 --> 00:30:16,980
+and it's a description of the opportunities available to women
+
+642
+00:30:17,014 --> 00:30:19,249
+in this computer industry.
+
+643
+00:30:19,283 --> 00:30:22,419
+It's got quotes about style, 
+and fashion, and dating,
+
+644
+00:30:22,452 --> 00:30:25,489
+but it's this 
+remarkably insightful piece
+
+645
+00:30:25,522 --> 00:30:28,759
+on the fact that this is 
+an industry open to women,
+
+646
+00:30:28,792 --> 00:30:32,062
+that women 
+are working in the industry,
+
+647
+00:30:32,095 --> 00:30:33,997
+and that there are lots 
+of opportunities for them
+
+648
+00:30:34,031 --> 00:30:36,333
+to move forward.
+
+649
+00:30:37,234 --> 00:30:40,637
+It's part of, I think, 
+a confusing and conflicting
+
+650
+00:30:40,671 --> 00:30:44,374
+set of messages 
+that are beginning to emerge,
+
+651
+00:30:44,408 --> 00:30:47,511
+however, about the role 
+of women in computing.
+
+652
+00:30:47,544 --> 00:30:50,480
+Companies like IBM are 
+struggling to find programmers
+
+653
+00:30:50,514 --> 00:30:53,617
+and they'll put an advertisement in the "New York Times"
+
+654
+00:30:53,650 --> 00:30:58,021
+and say, "Are you the man to 
+control the electronic giant?"
+
+655
+00:30:58,055 --> 00:31:01,491
+It's encouraging programmers, I think, to think about themselves
+
+656
+00:31:01,525 --> 00:31:05,696
+as a special breed, 
+somebody with the right stuff.
+
+657
+00:31:05,729 --> 00:31:08,465
+Women aren't disappearing 
+from computing,
+
+658
+00:31:08,498 --> 00:31:10,767
+but the kinds of stories we tell
+
+659
+00:31:10,801 --> 00:31:13,337
+about who belongs 
+in this industry
+
+660
+00:31:13,370 --> 00:31:16,039
+are very much 
+starting to be about men.
+
+661
+00:31:16,073 --> 00:31:18,742
+If a girl has been told 
+from the beginning that,
+
+662
+00:31:18,775 --> 00:31:21,812
+"Oh, girls are good at art. 
+Girls aren't good at science.
+
+663
+00:31:21,845 --> 00:31:25,716
+Girls aren't good at math," 
+then naturally this is just
+
+664
+00:31:25,749 --> 00:31:28,051
+not a field they 
+are going to concentrate on.
+
+665
+00:31:28,085 --> 00:31:31,488
+And as they get older, they'll 
+naturally start to fall behind.
+
+666
+00:31:31,521 --> 00:31:36,460
+I think from a very young age 
+girls and boys are kind of told
+
+667
+00:31:36,493 --> 00:31:38,295
+what they're supposed to like.
+
+668
+00:31:38,328 --> 00:31:40,464
+I've gone shopping in toy aisles
+
+669
+00:31:40,497 --> 00:31:43,333
+and I'll see these pink 
+and girly toys,
+
+670
+00:31:43,367 --> 00:31:45,535
+and then I'll see these 
+cool, like, trucks and trains,
+
+671
+00:31:45,569 --> 00:31:49,072
+but they're obviously 
+marketed towards boys.
+
+672
+00:31:49,106 --> 00:31:52,743
+So, it's not that surprising 
+to me that when girls get older
+
+673
+00:31:52,776 --> 00:31:56,646
+they don't gravitate towards 
+the maths and sciences.
+
+674
+00:31:56,680 --> 00:31:58,448
+I played with anything.
+
+675
+00:31:58,482 --> 00:32:02,719
+I played with G.I. Joes, 
+I played with Legos,
+
+676
+00:32:02,753 --> 00:32:04,521
+I played with Barbies.
+
+677
+00:32:05,288 --> 00:32:07,190
+I love to shop, don't you?
+
+678
+00:32:07,224 --> 00:32:10,093
+♪ I can't believe my ears, 
+I can't believe my eyes ♪
+
+679
+00:32:10,127 --> 00:32:12,362
+♪ Every Teen Talk Barbie 
+is a different surprise! ♪♪
+
+680
+00:32:12,396 --> 00:32:13,697
+Cool!
+
+681
+00:32:13,730 --> 00:32:15,232
+(girl) 
+What's she gonna say next?
+
+682
+00:32:15,265 --> 00:32:16,633
+Do you like 
+toasted marshmallows?
+
+683
+00:32:16,666 --> 00:32:19,202
+(female reporter) 
+That's the kind of talk 
+we expect from Barbie,
+
+684
+00:32:19,236 --> 00:32:20,837
+innocuous and upbeat.
+
+685
+00:32:20,871 --> 00:32:24,174
+But here's the one-liner 
+that got her into big trouble.
+
+686
+00:32:24,207 --> 00:32:26,343
+Math class is tough.
+
+687
+00:32:26,376 --> 00:32:27,544
+(reporter) 
+Math class is tough?
+
+688
+00:32:27,577 --> 00:32:31,281
+Mighty discouraging words 
+from a female role model.
+
+689
+00:32:32,616 --> 00:32:34,151
+(Helen Jane Hurren) 
+"Hi guys," says Barbie.
+
+690
+00:32:34,184 --> 00:32:35,552
+(reporter) 
+Mom, Helen Jane Hurren,
+
+691
+00:32:35,585 --> 00:32:37,854
+says she was excited 
+to share the book,
+
+692
+00:32:37,888 --> 00:32:40,657
+"Barbie: I Can Be 
+a Computer Engineer,"
+
+693
+00:32:40,690 --> 00:32:45,395
+with her two young girls, 
+until she opened it up.
+
+694
+00:32:45,429 --> 00:32:46,897
+We were shocked.
+
+695
+00:32:46,930 --> 00:32:50,200
+(reporter) 
+The book starts with Barbie 
+designing a computer game,
+
+696
+00:32:50,233 --> 00:32:52,335
+but she quickly 
+gets into trouble,
+
+697
+00:32:52,369 --> 00:32:54,571
+a virus crashing her laptop.
+
+698
+00:32:54,604 --> 00:32:57,274
+Her solution, bring in the boys.
+
+699
+00:32:57,307 --> 00:33:00,644
+"It will go faster if Brian 
+and I help," says Steven.
+
+700
+00:33:00,677 --> 00:33:02,746
+Barbie's reply? "Great!"
+
+701
+00:33:02,779 --> 00:33:06,850
+The boys fix the problem, and 
+after a high-five celebration,
+
+702
+00:33:06,883 --> 00:33:08,919
+Barbie proudly proclaims,
+
+703
+00:33:08,952 --> 00:33:11,888
+"I guess I can be 
+a computer engineer!"
+
+704
+00:33:11,922 --> 00:33:14,691
+Mattel is now apologizing 
+for a children's book
+
+705
+00:33:14,724 --> 00:33:16,493
+that is getting 
+a lot of criticism.
+
+706
+00:33:16,526 --> 00:33:29,739
+♪♪♪
+
+707
+00:33:29,773 --> 00:33:31,274
+When I first started out,
+
+708
+00:33:31,308 --> 00:33:33,276
+a lot of people in 
+the toy industry told me
+
+709
+00:33:33,310 --> 00:33:36,279
+that the concept of getting 
+girls interested in engineering
+
+710
+00:33:36,313 --> 00:33:38,315
+and computer science 
+was very niche,
+
+711
+00:33:38,348 --> 00:33:39,716
+that it would never 
+go mainstream,
+
+712
+00:33:39,749 --> 00:33:44,387
+that girls liked dolls 
+and boys liked building.
+
+713
+00:33:44,421 --> 00:33:45,722
+I didn't believe it 
+for a second,
+
+714
+00:33:45,755 --> 00:33:48,258
+but I needed 
+to prove them wrong.
+
+715
+00:33:48,291 --> 00:33:50,861
+Construction toys have 
+been around for over 100 years,
+
+716
+00:33:50,894 --> 00:33:53,897
+but for a long time they've 
+really been kind of designed for
+
+717
+00:33:53,930 --> 00:33:55,165
+and marketed to boys,
+
+718
+00:33:55,198 --> 00:33:58,535
+which is unfortunate because 
+they're really educational,
+
+719
+00:33:58,568 --> 00:34:01,204
+and they help develop 
+motor and spatial skills
+
+720
+00:34:01,238 --> 00:34:03,773
+and problem solving.
+
+721
+00:34:03,807 --> 00:34:06,376
+Young kids are so 
+impressionable at that age,
+
+722
+00:34:06,409 --> 00:34:08,678
+it's really important 
+that we open up their minds
+
+723
+00:34:08,712 --> 00:34:09,846
+to more options,
+
+724
+00:34:09,880 --> 00:34:12,716
+especially girls who are 
+inundated with princesses,
+
+725
+00:34:12,749 --> 00:34:15,685
+and ponies, and pop stars.
+
+726
+00:34:15,719 --> 00:34:17,921
+We've been thinking a lot 
+about GoldieBlox as a way
+
+727
+00:34:17,954 --> 00:34:21,324
+to get girls interested 
+in engineering and technology
+
+728
+00:34:21,358 --> 00:34:22,759
+through these characters.
+
+729
+00:34:22,792 --> 00:34:24,761
+Because you need 
+to have a role model, right?
+
+730
+00:34:24,794 --> 00:34:27,330
+Somebody who you can 
+look up to and wanna be like.
+
+731
+00:34:27,364 --> 00:34:39,276
+♪♪♪
+
+732
+00:34:39,309 --> 00:34:41,945
+♪ Come on, ditch your toys
+
+733
+00:34:41,978 --> 00:34:44,581
+♪ Girls make some noise
+
+734
+00:34:44,614 --> 00:34:47,918
+♪ More than pink, pink, pink
+
+735
+00:34:47,951 --> 00:34:50,487
+♪ We want to think! ♪
+
+736
+00:34:50,520 --> 00:34:53,323
+(Debbie Sterling) 
+And I remember the moment when 
+I watched the Super Bowl ad.
+
+737
+00:34:53,356 --> 00:34:55,425
+It just brought 
+tears to my eyes,
+
+738
+00:34:55,458 --> 00:34:58,562
+watching that kind 
+of horde of little girls
+
+739
+00:34:58,595 --> 00:35:00,597
+racing down the streets 
+with their pink toys
+
+740
+00:35:00,630 --> 00:35:02,532
+and building a rocket ship.
+
+741
+00:35:02,566 --> 00:35:04,601
+It was so incredibly empowering,
+
+742
+00:35:04,634 --> 00:35:08,772
+particularly given the fact 
+that typically in the Super Bowl
+
+743
+00:35:08,805 --> 00:35:12,542
+you're seeing, you know, 
+big boobs, and cars,
+
+744
+00:35:12,576 --> 00:35:16,613
+and, you know, a lot of kind of 
+typically sexist content.
+
+745
+00:35:16,646 --> 00:35:22,552
+To see a girl empowerment ad, 
+it was really disruptive.
+
+746
+00:35:25,889 --> 00:35:27,824
+My mom was also 
+a mathematician,
+
+747
+00:35:27,857 --> 00:35:29,993
+and I grew up with the term 
+"Stereotype threat"
+
+748
+00:35:30,026 --> 00:35:32,562
+just, like, casually 
+thrown around the household.
+
+749
+00:35:32,596 --> 00:35:34,497
+But, like, there's some, like, 
+pretty legitimate research
+
+750
+00:35:34,531 --> 00:35:36,833
+showing that if you think you're 
+gonna be less good at something,
+
+751
+00:35:36,866 --> 00:35:39,536
+you'll start being 
+less good at it.
+
+752
+00:35:39,569 --> 00:35:42,939
+There are all kinds of forms 
+of stereotype threat,
+
+753
+00:35:42,973 --> 00:35:44,674
+'cause there's 
+negative stereotypes
+
+754
+00:35:44,708 --> 00:35:46,943
+about almost every 
+single identity we have:
+
+755
+00:35:46,977 --> 00:35:49,579
+our age, our race, 
+our religion.
+
+756
+00:35:49,613 --> 00:35:52,515
+But if you're, say, for example, 
+a women trying to succeed
+
+757
+00:35:52,549 --> 00:35:58,054
+in advanced computer science 
+courses at an elite university,
+
+758
+00:35:58,088 --> 00:36:01,758
+the prospect of being seen in 
+terms of the negative stereotype
+
+759
+00:36:01,791 --> 00:36:05,462
+about women's math ability 
+can sort of knock you sideways.
+
+760
+00:36:05,495 --> 00:36:08,999
+We got men and women who 
+were very, very good at math,
+
+761
+00:36:09,032 --> 00:36:10,533
+and we brought them 
+into the laboratory
+
+762
+00:36:10,567 --> 00:36:12,969
+and we gave them 
+a very difficult math test
+
+763
+00:36:13,003 --> 00:36:15,839
+that we knew 
+would cause frustration.
+
+764
+00:36:15,872 --> 00:36:18,608
+Our idea was that 
+for these students,
+
+765
+00:36:18,642 --> 00:36:21,111
+the situation would 
+become different for men
+
+766
+00:36:21,144 --> 00:36:23,079
+than it was for women.
+
+767
+00:36:23,113 --> 00:36:24,748
+For men, they'd be 
+frustrated and worried
+
+768
+00:36:24,781 --> 00:36:26,416
+that they weren't 
+performing as well
+
+769
+00:36:26,449 --> 00:36:28,018
+as they might have 
+anticipated.
+
+770
+00:36:28,051 --> 00:36:29,886
+But for women, 
+in addition to that,
+
+771
+00:36:29,919 --> 00:36:32,922
+they might have worried that 
+they may be confirming
+
+772
+00:36:32,956 --> 00:36:35,725
+that alleged limitation 
+in math ability
+
+773
+00:36:35,759 --> 00:36:39,462
+that stereotypes in our society attribute to them.
+
+774
+00:36:39,496 --> 00:36:43,400
+That extra worry would use up 
+an extra amount of bandwidth
+
+775
+00:36:43,433 --> 00:36:46,736
+as they fight with that, and 
+resolve to push through that,
+
+776
+00:36:46,770 --> 00:36:50,473
+and to disprove that, 
+and all the things that we do.
+
+777
+00:36:50,507 --> 00:36:52,575
+But women performed 
+a full standard deviation
+
+778
+00:36:52,609 --> 00:36:54,978
+worse than men on a test,
+
+779
+00:36:55,011 --> 00:36:57,580
+even though we had carefully 
+matched the men and women
+
+780
+00:36:57,614 --> 00:37:00,984
+for having the same skill level when they began.
+
+781
+00:37:01,017 --> 00:37:03,987
+We do the experiment over again, 
+but this time we tell them,
+
+782
+00:37:04,020 --> 00:37:07,023
+"Look, you may have heard that 
+women don't do as well as men
+
+783
+00:37:07,057 --> 00:37:09,459
+"on difficult standardized 
+math tests,
+
+784
+00:37:09,492 --> 00:37:11,928
+"but that's not true for 
+the test you're taking today.
+
+785
+00:37:11,961 --> 00:37:14,464
+"The test you're taking today, 
+women always do as well as men.
+
+786
+00:37:14,497 --> 00:37:16,132
+They always have, 
+they always will."
+
+787
+00:37:16,166 --> 00:37:19,102
+Under that simple instruction, 
+women's math performance
+
+788
+00:37:19,135 --> 00:37:23,473
+went up to match that 
+of equally skilled men.
+
+789
+00:37:23,506 --> 00:37:25,742
+Even though women 
+may do well
+
+790
+00:37:25,775 --> 00:37:28,144
+in many of these 
+subjects in school,
+
+791
+00:37:28,178 --> 00:37:32,115
+there's this idea that you 
+have to be a genius
+
+792
+00:37:32,148 --> 00:37:38,154
+or have a certain kind of mind 
+to succeed in that as a field.
+
+793
+00:37:38,188 --> 00:37:39,989
+Women who have this view,
+
+794
+00:37:40,023 --> 00:37:43,593
+that it's only a fixed kind 
+of person who belongs there,
+
+795
+00:37:43,626 --> 00:37:48,832
+start feeling the stereotype 
+more strongly.
+
+796
+00:37:48,865 --> 00:37:52,068
+They don't choose a field 
+that says it's sheer brainpower
+
+797
+00:37:52,102 --> 00:37:53,803
+that can't be taught.
+
+798
+00:37:53,837 --> 00:37:55,505
+Some people have it, some don't,
+
+799
+00:37:55,538 --> 00:38:01,511
+because they know who the 
+field thinks doesn't have it.
+
+800
+00:38:01,544 --> 00:38:04,714
+After 87 minutes of very 
+competitive play, we have a tie.
+
+801
+00:38:04,748 --> 00:38:07,684
+In the event of a tie, we 
+move into a sudden death round.
+
+802
+00:38:07,717 --> 00:38:09,652
+Each team is given 
+the opportunity
+
+803
+00:38:09,686 --> 00:38:12,088
+to choose their opponent.
+
+804
+00:38:12,122 --> 00:38:13,857
+North Shore, 
+who do you select?
+
+805
+00:38:13,890 --> 00:38:16,159
+- The girl, dude. 
+- The girl.
+
+806
+00:38:16,192 --> 00:38:17,427
+Contestant Kraft.
+
+807
+00:38:17,460 --> 00:38:21,030
+(facilitator) 
+From Marymount, 
+Miss Carolyn Kraft.
+
+808
+00:38:23,833 --> 00:38:25,568
+We pick the girl too.
+
+809
+00:38:25,935 --> 00:38:28,571
+You're just a woman 
+with a small brain,
+
+810
+00:38:28,605 --> 00:38:30,940
+with a brain a third the size of us.
+
+811
+00:38:30,974 --> 00:38:32,776
+It's science.
+
+812
+00:38:33,543 --> 00:38:44,053
+♪♪♪
+
+813
+00:38:44,087 --> 00:38:45,955
+(Kiara) 
+Red is my favorite color,
+
+814
+00:38:45,989 --> 00:38:49,259
+and then Ruby 
+is the stuff I'm using.
+
+815
+00:38:49,292 --> 00:38:50,927
+Ahh.
+
+816
+00:38:50,960 --> 00:38:52,262
+Isn't that a cool photo?
+
+817
+00:38:52,295 --> 00:38:53,429
+See all these?
+
+818
+00:38:53,463 --> 00:38:56,933
+All this stuff, that's, like, 
+what I'm doing in code.
+
+819
+00:38:56,966 --> 00:39:00,570
+So, every time I click on it, 
+that something, it changes.
+
+820
+00:39:00,603 --> 00:39:02,105
+Did you have to 
+type all of this?
+
+821
+00:39:02,138 --> 00:39:05,008
+Yeah, most of it. 
+So it's kind of--
+
+822
+00:39:05,041 --> 00:39:06,743
+(Isabella) 
+I would be willing 
+to learn it.
+
+823
+00:39:06,776 --> 00:39:08,111
+It sounds so interesting.
+
+824
+00:39:08,144 --> 00:39:11,281
+In high school 
+they'll introduce it to you?
+
+825
+00:39:11,314 --> 00:39:13,283
+(Kiara) 
+No, they don't even 
+do it in high school.
+
+826
+00:39:13,316 --> 00:39:15,285
+They do it in like 
+your senior year or whatever,
+
+827
+00:39:15,318 --> 00:39:16,820
+which is way too late.
+
+828
+00:39:16,853 --> 00:39:18,822
+So, they don't--and so 
+people are not interested in it.
+
+829
+00:39:18,855 --> 00:39:20,156
+Yeah, and most people, like,
+
+830
+00:39:20,190 --> 00:39:22,025
+who go to computer science 
+in college,
+
+831
+00:39:22,058 --> 00:39:25,195
+they've been coding and programming since they were 10.
+
+832
+00:39:25,228 --> 00:39:27,597
+Like, full websites and things.
+
+833
+00:39:27,630 --> 00:39:31,568
+(Sammie) 
+I took this Java 
+coding course at Berkeley
+
+834
+00:39:31,601 --> 00:39:33,203
+and it was so intense.
+
+835
+00:39:33,236 --> 00:39:35,572
+Like, it was supposed to 
+be a beginner course
+
+836
+00:39:35,605 --> 00:39:37,774
+and it was all, 
+like, 16-year-old guys
+
+837
+00:39:37,807 --> 00:39:39,776
+who had already-- 
+who obviously already
+
+838
+00:39:39,809 --> 00:39:41,277
+knew what they were doing.
+
+839
+00:39:41,311 --> 00:39:44,714
+(Yuni) 
+Were you intimidated because 
+it was all, like, mostly male,
+
+840
+00:39:44,747 --> 00:39:48,017
+or were you intimidated because of the level that they were at?
+
+841
+00:39:48,051 --> 00:39:50,887
+(Sammie) Well, it was mostly the level they were at, plus I was like--
+
+842
+00:39:50,920 --> 00:39:53,256
+I was, like, 
+this 12-year-old little girl
+
+843
+00:39:53,289 --> 00:39:55,058
+with all these older guys 
+that had, like,
+
+844
+00:39:55,091 --> 00:39:58,027
+no idea what I was doing.
+
+845
+00:39:58,061 --> 00:40:01,197
+(Kiara) 
+A lot of girls go into, 
+like, college-level courses
+
+846
+00:40:01,231 --> 00:40:02,732
+and they feel so behind.
+
+847
+00:40:02,765 --> 00:40:04,701
+It's not that they're 
+necessarily behind,
+
+848
+00:40:04,734 --> 00:40:06,169
+it's just that they 
+haven't been learning
+
+849
+00:40:06,202 --> 00:40:09,005
+as long as some of the 
+other students and boys.
+
+850
+00:40:09,038 --> 00:40:12,141
+Also, like, computer scientists and software engineers,
+
+851
+00:40:12,175 --> 00:40:13,676
+I think it's 
+the most sought-after job
+
+852
+00:40:13,710 --> 00:40:15,011
+in the world right now.
+
+853
+00:40:15,044 --> 00:40:16,779
+And especially, they're also looking for, like,
+
+854
+00:40:16,813 --> 00:40:20,984
+female coders and things, and 
+they're, like, so hard to find.
+
+855
+00:40:21,017 --> 00:40:23,686
+(Isabella) So, when did you decide you wanted to create a website?
+
+856
+00:40:23,720 --> 00:40:25,922
+I've been thinking about 
+doing this since I was about 11,
+
+857
+00:40:25,955 --> 00:40:30,727
+but then I actually started 
+doing this--it kind of, like--
+
+858
+00:40:30,760 --> 00:40:33,196
+I think it was at 
+the start of 8th grade.
+
+859
+00:40:33,229 --> 00:40:34,364
+How did you get the idea?
+
+860
+00:40:34,397 --> 00:40:37,267
+Well, my dad, because I am 
+in at his work all the time
+
+861
+00:40:37,300 --> 00:40:38,835
+and I see 
+all these ninja coders.
+
+862
+00:40:38,868 --> 00:40:40,169
+And they're so ninja.
+
+863
+00:40:40,203 --> 00:40:41,704
+Inspired.
+
+864
+00:40:41,738 --> 00:40:43,039
+Yeah, and they're not weird.
+
+865
+00:40:43,072 --> 00:40:44,741
+Like, you can, like-- 
+they'll talk to you.
+
+866
+00:40:44,774 --> 00:40:45,875
+(Sammie) 
+They're actual people?
+
+867
+00:40:45,909 --> 00:40:48,344
+Yeah! And they, like, talk 
+to you and I've had, like,
+
+868
+00:40:48,378 --> 00:40:49,946
+some great conversations 
+with some of them,
+
+869
+00:40:49,979 --> 00:40:51,281
+like, totally normal.
+
+870
+00:40:51,314 --> 00:40:53,650
+They're, like-- 
+they don't all wear glasses.
+
+871
+00:40:53,683 --> 00:40:54,984
+Like, they're totally normal.
+
+872
+00:40:55,018 --> 00:40:56,319
+Not the stereotype.
+
+873
+00:40:56,352 --> 00:40:58,187
+Yeah, and so I was like-- 
+I was like,
+
+874
+00:40:58,221 --> 00:40:59,889
+"Oh my God, 
+these guys are so cool.
+
+875
+00:40:59,923 --> 00:41:01,224
+I wanna be like them."
+
+876
+00:41:01,257 --> 00:41:02,759
+And yeah, okay, 
+they are mostly men.
+
+877
+00:41:02,792 --> 00:41:04,093
+But I was like,
+
+878
+00:41:04,127 --> 00:41:06,296
+"That's fine 'cause I can 
+just be a queen ninja."
+
+879
+00:41:06,329 --> 00:41:18,775
+♪♪♪
+
+880
+00:41:18,808 --> 00:41:22,045
+I have a niece who 
+was always great in math.
+
+881
+00:41:22,078 --> 00:41:25,148
+Great in math all the way 
+through elementary school,
+
+882
+00:41:25,181 --> 00:41:26,749
+junior high school.
+
+883
+00:41:26,783 --> 00:41:28,251
+And in high school, 
+all of a sudden
+
+884
+00:41:28,284 --> 00:41:30,386
+she's not good 
+at math anymore.
+
+885
+00:41:30,420 --> 00:41:32,855
+And it's much more 
+around the,
+
+886
+00:41:32,889 --> 00:41:35,825
+"She doesn't want to be 
+seen as being the smart girl."
+
+887
+00:41:35,858 --> 00:41:38,895
+She doesn't-- 
+it's all of those pressures.
+
+888
+00:41:38,928 --> 00:41:40,997
+They want to be the cute girl, 
+the popular girl,
+
+889
+00:41:41,030 --> 00:41:42,231
+not the nerdy girl.
+
+890
+00:41:42,265 --> 00:41:45,101
+Oh, I never wanted to be the 
+cute girl or the popular girl.
+
+891
+00:41:45,134 --> 00:41:46,936
+A lot of girls 
+do though, right?
+
+892
+00:41:46,970 --> 00:41:48,404
+I know.
+
+893
+00:41:48,438 --> 00:41:50,707
+Girls start to associate 
+math and science
+
+894
+00:41:50,740 --> 00:41:52,775
+as not being something 
+they want to be
+
+895
+00:41:52,809 --> 00:41:54,110
+associated being good at.
+
+896
+00:41:54,143 --> 00:41:55,979
+They don't want to be 
+thought bad at math,
+
+897
+00:41:56,012 --> 00:41:57,380
+they just want to be average.
+
+898
+00:41:59,782 --> 00:42:02,852
+Hey, I'm totally lost. 
+Can you help me?
+
+899
+00:42:02,885 --> 00:42:04,721
+(Cady voiceover) 
+But I wasn't lost, 
+I knew exactly
+
+900
+00:42:04,754 --> 00:42:06,055
+what Ms. Norbury 
+was talking about.
+
+901
+00:42:06,089 --> 00:42:08,825
+It's a factorial, 
+so you multiply each one by N.
+
+902
+00:42:08,858 --> 00:42:10,393
+(Cady voiceover) 
+Wrong.
+
+903
+00:42:10,426 --> 00:42:13,129
+Is that the summation?
+
+904
+00:42:13,162 --> 00:42:14,964
+Yeah, they're the same thing.
+
+905
+00:42:14,998 --> 00:42:17,000
+(Cady voiceover) 
+Wrong, he was so wrong.
+
+906
+00:42:17,033 --> 00:42:19,402
+Thanks, I get it now.
+
+907
+00:42:19,435 --> 00:42:21,437
+[bell ringing]
+
+908
+00:42:22,138 --> 00:42:23,973
+(Danielle Feinberg) In school, there's a big difference between
+
+909
+00:42:24,007 --> 00:42:25,708
+what a woman is going through
+
+910
+00:42:25,742 --> 00:42:27,043
+and what a man 
+is going through.
+
+911
+00:42:27,076 --> 00:42:29,078
+Now, it's hopefully 
+changed a little bit,
+
+912
+00:42:29,112 --> 00:42:30,713
+but when I was in college,
+
+913
+00:42:30,747 --> 00:42:33,716
+there were 5% to 10% women 
+in my classes,
+
+914
+00:42:33,750 --> 00:42:35,451
+especially my 
+computer science classes.
+
+915
+00:42:35,485 --> 00:42:37,754
+And what that meant 
+was the guys
+
+916
+00:42:37,787 --> 00:42:39,489
+actually all teamed up 
+on the homework.
+
+917
+00:42:39,522 --> 00:42:42,025
+We'd all be in the same room, 
+they'd be working on it,
+
+918
+00:42:42,058 --> 00:42:43,259
+figure out the little, 
+sort of, tricks
+
+919
+00:42:43,292 --> 00:42:46,262
+that were embedded in everything 
+and share it with each other.
+
+920
+00:42:46,295 --> 00:42:49,499
+And they wouldn't 
+even talk to me.
+
+921
+00:42:49,532 --> 00:42:51,200
+I mean, I couldn't 
+really do anything else.
+
+922
+00:42:51,234 --> 00:42:53,369
+I loved it so much, 
+I wasn't gonna give it up.
+
+923
+00:42:53,403 --> 00:42:56,072
+But there was definitely-- 
+it was a pretty hard path.
+
+924
+00:42:56,239 --> 00:42:58,041
+I went to MIT.
+
+925
+00:42:58,074 --> 00:43:02,145
+There really weren't too many 
+people in my class freshman year
+
+926
+00:43:02,178 --> 00:43:05,948
+who were that interested 
+in computers, boys or girls.
+
+927
+00:43:05,982 --> 00:43:07,483
+So, it was kind of unusual
+
+928
+00:43:07,517 --> 00:43:10,153
+to be taking the first 
+computer class for anyone.
+
+929
+00:43:10,186 --> 00:43:14,824
+That class probably had 
+one girl in it, which was me.
+
+930
+00:43:14,857 --> 00:43:18,895
+And the next class, oh, 
+it increased a lot by then.
+
+931
+00:43:18,928 --> 00:43:21,397
+We had two women in it.
+
+932
+00:43:21,431 --> 00:43:24,067
+I was told by many professors
+
+933
+00:43:24,100 --> 00:43:26,436
+that I would never 
+make it in industry
+
+934
+00:43:26,469 --> 00:43:30,139
+and a woman should just as well go home and have babies.
+
+935
+00:43:30,173 --> 00:43:32,108
+I was really wasting my time.
+
+936
+00:43:32,141 --> 00:43:34,110
+I was lectured in a math class,
+
+937
+00:43:34,143 --> 00:43:36,813
+singled out 
+for having done my homework
+
+938
+00:43:36,846 --> 00:43:39,082
+and lectured 
+that women are inferior
+
+939
+00:43:39,115 --> 00:43:42,251
+because they always 
+do what they're told.
+
+940
+00:43:42,285 --> 00:43:45,188
+That's not terribly pleasant 
+when you're 18.
+
+941
+00:43:45,221 --> 00:43:50,393
+I was not aware or focused 
+on my gender in high school.
+
+942
+00:43:50,426 --> 00:43:52,261
+The top performers in 
+my math and science classroom
+
+943
+00:43:52,295 --> 00:43:53,830
+in high school were women.
+
+944
+00:43:53,863 --> 00:43:55,431
+It didn't feel strange there.
+
+945
+00:43:55,465 --> 00:43:57,567
+But then when I went to college, 
+all of a sudden
+
+946
+00:43:57,600 --> 00:44:00,136
+I was receiving these 
+messages that it was strange
+
+947
+00:44:00,169 --> 00:44:02,939
+that I was a woman 
+interested in math and science,
+
+948
+00:44:02,972 --> 00:44:04,807
+interested in computer science.
+
+949
+00:44:04,841 --> 00:44:07,543
+"Colleen, you won't like 
+majoring in computer science.
+
+950
+00:44:07,577 --> 00:44:09,078
+"You won't like 
+sitting in a basement
+
+951
+00:44:09,112 --> 00:44:11,347
+coding until 
+3 in the morning."
+
+952
+00:44:11,380 --> 00:44:15,218
+It seemed like every adult 
+in my life between the ages--
+
+953
+00:44:15,251 --> 00:44:19,489
+when I was the age 18 to 22, 
+was telling me that same thing.
+
+954
+00:44:19,522 --> 00:44:21,491
+And it wasn't until 
+I was a senior in college
+
+955
+00:44:21,524 --> 00:44:23,526
+where I found out that 
+that wasn't something
+
+956
+00:44:23,559 --> 00:44:26,395
+that my male colleagues 
+were being told.
+
+957
+00:44:26,429 --> 00:44:29,432
+There started to be an 
+increase of the number of women
+
+958
+00:44:29,465 --> 00:44:31,434
+who were studying 
+computer science,
+
+959
+00:44:31,467 --> 00:44:36,205
+and in the mid '80s 
+it peaked around 40%.
+
+960
+00:44:36,239 --> 00:44:39,575
+And I thought when I entered 
+college around that time
+
+961
+00:44:39,609 --> 00:44:42,378
+that we were, you know, 
+on our way to being 50/50,
+
+962
+00:44:42,411 --> 00:44:44,947
+because it was, you know, 
+steadily going up.
+
+963
+00:44:44,981 --> 00:44:48,885
+It's odd that we could have 
+gotten close to gender parity
+
+964
+00:44:48,918 --> 00:44:52,221
+in people studying 
+computer science in the '80s
+
+965
+00:44:52,255 --> 00:44:54,590
+and then have it 
+decline from there.
+
+966
+00:44:54,624 --> 00:44:59,362
+It's when the idea of the 
+nerd genius came to the fore,
+
+967
+00:44:59,395 --> 00:45:03,266
+and that's exactly when 
+women started declining
+
+968
+00:45:03,299 --> 00:45:05,067
+in their representation.
+
+969
+00:45:05,101 --> 00:45:07,937
+This whole image formed of,
+
+970
+00:45:07,970 --> 00:45:13,042
+"Do you have the right stuff 
+to be a coder?
+
+971
+00:45:13,075 --> 00:45:16,279
+A computer programmer? 
+A computer geek?"
+
+972
+00:45:16,312 --> 00:45:18,948
+And what this does 
+is create this kind of culture
+
+973
+00:45:18,981 --> 00:45:22,385
+of computing that today 
+we know as computer hacking.
+
+974
+00:45:22,418 --> 00:45:25,521
+In the '70s it was called--they 
+were called the computer bums.
+
+975
+00:45:25,555 --> 00:45:29,258
+They would hang around 
+in these labs, and drink Coke,
+
+976
+00:45:29,292 --> 00:45:32,395
+and eat lots of sugar, and 
+stay up for days at a time.
+
+977
+00:45:37,066 --> 00:45:40,369
+In the early 1980s, we start to get this new figure emerging
+
+978
+00:45:40,403 --> 00:45:42,405
+in American popular culture,
+
+979
+00:45:42,438 --> 00:45:46,042
+often called the computer hacker or the computer nerd.
+
+980
+00:45:46,075 --> 00:45:49,412
+These are emerging 
+out of incidents in which
+
+981
+00:45:49,445 --> 00:45:53,916
+young male computer programmers break into other systems.
+
+982
+00:45:53,950 --> 00:45:55,618
+Anybody want to shut down 
+the Federal Reserve?
+
+983
+00:45:55,651 --> 00:45:59,121
+Los Alamos Labs, 
+Security Pacific Bank,
+
+984
+00:45:59,155 --> 00:46:01,424
+and they're wonderful stories.
+
+985
+00:46:01,457 --> 00:46:03,559
+They're romantic stories, 
+they're stories that embody
+
+986
+00:46:03,593 --> 00:46:06,262
+a certain kind of 
+frill and danger.
+
+987
+00:46:06,295 --> 00:46:08,931
+And being young, being male,
+
+988
+00:46:08,965 --> 00:46:12,435
+potentially being slightly 
+anti-social or counter cultural
+
+989
+00:46:12,468 --> 00:46:14,437
+becomes part of 
+the stories we tell
+
+990
+00:46:14,470 --> 00:46:17,173
+about who belongs 
+and who doesn't.
+
+991
+00:46:17,206 --> 00:46:18,674
+Get 'em up! Get 'em up! 
+Don't move!
+
+992
+00:46:18,708 --> 00:46:20,209
+Deja vu!
+
+993
+00:46:20,243 --> 00:46:21,544
+Ray Sanchez, 
+you're under arrest
+
+994
+00:46:21,577 --> 00:46:24,313
+under the Computer Fraud 
+and Abuse Act of 1986.
+
+995
+00:46:24,347 --> 00:46:27,950
+[yelling in Spanish]
+
+996
+00:46:27,984 --> 00:46:30,253
+What are you waiting for? 
+Arrest me already!
+
+997
+00:46:30,519 --> 00:46:31,887
+Are those your grades?
+
+998
+00:46:31,921 --> 00:46:36,959
+(David) 
+Yeah, I don't think 
+that I deserved an F, do you?
+
+999
+00:46:36,993 --> 00:46:38,694
+(Jennifer) 
+You could go 
+to jail for that.
+
+1000
+00:46:38,728 --> 00:46:40,563
+Only if you're over 18.
+
+1001
+00:46:40,596 --> 00:46:42,098
+There are many ways 
+to demonstrate
+
+1002
+00:46:42,131 --> 00:46:43,432
+that you are a good programmer.
+
+1003
+00:46:43,466 --> 00:46:46,202
+Pranking your friends, 
+breaking into their system
+
+1004
+00:46:46,235 --> 00:46:51,340
+is maybe an adolescent male way 
+of showing your dominance.
+
+1005
+00:46:51,374 --> 00:46:53,476
+The display of pornography,
+
+1006
+00:46:53,509 --> 00:46:58,080
+later of video games in these 
+labs that are closed places,
+
+1007
+00:46:58,114 --> 00:47:00,049
+I think create both 
+an environment
+
+1008
+00:47:00,082 --> 00:47:02,685
+that is unfriendly 
+for female students,
+
+1009
+00:47:02,718 --> 00:47:06,222
+but also this idea 
+that that's what hackers do.
+
+1010
+00:47:06,255 --> 00:47:08,691
+So, if you're a start up firm 
+and you want to signal
+
+1011
+00:47:08,724 --> 00:47:11,060
+that you've got the right stuff,
+
+1012
+00:47:11,093 --> 00:47:12,662
+you may not have 
+a business plan,
+
+1013
+00:47:12,695 --> 00:47:14,363
+you may not have a product,
+
+1014
+00:47:14,397 --> 00:47:16,365
+but you've got 
+a certain kind of culture.
+
+1015
+00:47:16,399 --> 00:47:19,135
+And so this celebration 
+of nerd culture in a sense
+
+1016
+00:47:19,168 --> 00:47:22,405
+becomes a way 
+of signaling your abilities.
+
+1017
+00:47:22,438 --> 00:47:24,140
+When I started, 
+the stereotypical programmer
+
+1018
+00:47:24,173 --> 00:47:30,546
+was sort of, like, 
+I was probably close to that,
+
+1019
+00:47:30,579 --> 00:47:35,651
+which was kind of quiet, 
+kind of shaggy looking.
+
+1020
+00:47:35,685 --> 00:47:37,219
+What I've seen is that somebody
+
+1021
+00:47:37,253 --> 00:47:40,222
+that really doesn't care 
+about their appearance
+
+1022
+00:47:40,256 --> 00:47:43,559
+and they just want to 
+come in late and stay late,
+
+1023
+00:47:43,592 --> 00:47:45,494
+and wear free t-shirts.
+
+1024
+00:47:45,528 --> 00:47:47,196
+I think that's my stereotype.
+
+1025
+00:47:47,229 --> 00:47:51,767
+Maybe more antisocial 
+than usual.
+
+1026
+00:47:51,801 --> 00:47:54,737
+Drinks a lot of 
+caffeinated beverages.
+
+1027
+00:47:55,171 --> 00:47:57,473
+Like at one point in my-- 
+one of the jobs I had,
+
+1028
+00:47:57,506 --> 00:48:00,743
+some guy actually thought I, 
+you know, didn't have a home
+
+1029
+00:48:00,776 --> 00:48:02,445
+and tried to--like, 
+one of the sales guys
+
+1030
+00:48:02,478 --> 00:48:04,046
+thought I needed money.
+
+1031
+00:48:04,080 --> 00:48:06,182
+That wasn't--that for 
+sure was stereotypical,
+
+1032
+00:48:06,215 --> 00:48:08,250
+but not, 
+maybe not actually typical.
+
+1033
+00:48:08,284 --> 00:48:09,418
+Probably not 
+a brogrammer, right?
+
+1034
+00:48:09,452 --> 00:48:12,221
+Like that's--I don't think 
+that counts as a brogrammer.
+
+1035
+00:48:12,254 --> 00:48:13,556
+- Brogrammer. 
+- Brogrammer.
+
+1036
+00:48:13,589 --> 00:48:15,391
+- Brogrammer. 
+- Brogrammer. 
+- Brogrammer.
+
+1037
+00:48:15,424 --> 00:48:17,626
+What, in fact, is a brogrammer?
+
+1038
+00:48:17,660 --> 00:48:19,195
+Probably the traditional 
+stereotype, right,
+
+1039
+00:48:19,228 --> 00:48:22,365
+is someone who's socially 
+awkward and, you know,
+
+1040
+00:48:22,398 --> 00:48:25,301
+stays down in the basement, 
+never sees the light of day.
+
+1041
+00:48:25,334 --> 00:48:27,336
+Then you have the brogrammer 
+who is, you know,
+
+1042
+00:48:27,370 --> 00:48:33,676
+kind of your frat style, 
+kind of really Type A, macho.
+
+1043
+00:48:33,709 --> 00:48:37,813
+I can teach you how you can 
+go from programmer to brogrammer
+
+1044
+00:48:37,847 --> 00:48:40,783
+in just ten easy steps.
+
+1045
+00:48:40,816 --> 00:48:43,319
+Number ten: the workout.
+
+1046
+00:48:43,352 --> 00:48:45,321
+There's a lot of cartoons 
+on the Internet with guys,
+
+1047
+00:48:45,354 --> 00:48:47,523
+you know, lifting weights, 
+and wearing bandanas
+
+1048
+00:48:47,556 --> 00:48:51,560
+and glasses, and sometimes 
+looking a little pretentious.
+
+1049
+00:48:51,594 --> 00:48:53,763
+I think the sort of phenomenon 
+of the brogrammer
+
+1050
+00:48:53,796 --> 00:48:55,431
+has really interested me,
+
+1051
+00:48:55,464 --> 00:48:56,766
+because it definitely 
+seems like initially
+
+1052
+00:48:56,799 --> 00:48:59,135
+it wasn't necessarily 
+that there were brogrammers.
+
+1053
+00:48:59,168 --> 00:49:02,104
+A sort of combination 
+of frat boy
+
+1054
+00:49:02,138 --> 00:49:06,208
+and, like, intelligent geek 
+that was super fun,
+
+1055
+00:49:06,242 --> 00:49:08,644
+and they'd hang out, and party, 
+and drink from the kegs
+
+1056
+00:49:08,677 --> 00:49:11,280
+all of the time, 
+and find the attractive women.
+
+1057
+00:49:11,313 --> 00:49:13,549
+And, like, there's just sort of 
+a heteronormative frat boy
+
+1058
+00:49:13,582 --> 00:49:15,117
+kind of feel 
+to the entire thing.
+
+1059
+00:49:15,151 --> 00:49:16,786
+And I think it's interesting 
+because I don't think
+
+1060
+00:49:16,819 --> 00:49:18,554
+it really arose 
+with them existing.
+
+1061
+00:49:18,587 --> 00:49:19,889
+I think it arose as an attempt
+
+1062
+00:49:19,922 --> 00:49:22,258
+to try to make 
+computer science cool.
+
+1063
+00:49:22,858 --> 00:49:25,461
+You need to completely 
+change who you are, Richard.
+
+1064
+00:49:25,494 --> 00:49:28,464
+A complete Teutonic shift 
+has to happen.
+
+1065
+00:49:28,497 --> 00:49:31,434
+- Tectonic. 
+- What?
+
+1066
+00:49:31,467 --> 00:49:34,670
+A Tectonic shift is the 
+earth's crust moving around.
+
+1067
+00:49:34,703 --> 00:49:36,672
+Teutonic, which is 
+what you just said,
+
+1068
+00:49:36,705 --> 00:49:39,642
+is an ancient Germanic tribe 
+that fought the Romans.
+
+1069
+00:49:39,675 --> 00:49:41,343
+Stop it.
+
+1070
+00:49:41,377 --> 00:49:43,612
+You're being a complete 
+tool right now.
+
+1071
+00:49:43,646 --> 00:49:46,482
+I need you to be 
+a complete asshole.
+
+1072
+00:49:46,515 --> 00:49:47,817
+Do you understand 
+the difference?
+
+1073
+00:49:47,850 --> 00:49:49,819
+If you're not an asshole, 
+this company dies.
+
+1074
+00:49:49,852 --> 00:49:51,620
+I think culturally 
+in some places,
+
+1075
+00:49:51,654 --> 00:49:55,157
+there's so many male programmers
+
+1076
+00:49:55,191 --> 00:49:57,259
+that there becomes 
+this sort of culture that,
+
+1077
+00:49:57,293 --> 00:49:59,428
+sometimes for women 
+it's really hard to get into.
+
+1078
+00:49:59,462 --> 00:50:00,763
+And it's one thing if you think,
+
+1079
+00:50:00,796 --> 00:50:02,865
+"Well, I just have to 
+survive this class
+
+1080
+00:50:02,898 --> 00:50:04,733
+"or I have to survive 
+4 years in college
+
+1081
+00:50:04,767 --> 00:50:07,436
+and it's gonna be better 
+on the other side."
+
+1082
+00:50:07,470 --> 00:50:09,205
+But when you 
+get to the other side
+
+1083
+00:50:09,238 --> 00:50:11,874
+and you're suddenly in this 
+place where you're gonna spend
+
+1084
+00:50:11,907 --> 00:50:14,543
+8, or 10, or 12 hours,
+
+1085
+00:50:14,577 --> 00:50:16,612
+and you're sort of 
+being mistreated
+
+1086
+00:50:16,645 --> 00:50:18,647
+by the people who are 
+supposed to be your team,
+
+1087
+00:50:18,681 --> 00:50:20,182
+I think that can be 
+very difficult
+
+1088
+00:50:20,216 --> 00:50:22,418
+to sort of work through.
+
+1089
+00:50:22,451 --> 00:50:23,919
+Little things that, 
+often times,
+
+1090
+00:50:23,953 --> 00:50:26,822
+if I were to bring them up to 
+somebody not in the situation,
+
+1091
+00:50:26,856 --> 00:50:28,557
+they would say, 
+"That was nothing.
+
+1092
+00:50:28,591 --> 00:50:30,259
+Like, why can't you 
+just brush it off?"
+
+1093
+00:50:30,292 --> 00:50:34,430
+But when it happens every day or 
+every week and it all adds up.
+
+1094
+00:50:34,463 --> 00:50:35,798
+Off the cuff remarks about,
+
+1095
+00:50:35,831 --> 00:50:37,500
+"Oh, maybe you should 
+try being a recruiter,"
+
+1096
+00:50:37,533 --> 00:50:39,668
+or "Maybe you should 
+try being a product manager,"
+
+1097
+00:50:39,702 --> 00:50:41,203
+or "Maybe you should 
+try something else
+
+1098
+00:50:41,237 --> 00:50:42,538
+"that's not exactly 
+what you do
+
+1099
+00:50:42,571 --> 00:50:45,941
+because maybe you don't 
+look like what I expect."
+
+1100
+00:50:45,975 --> 00:50:48,310
+The assumption is that I would 
+not be a software engineer,
+
+1101
+00:50:48,344 --> 00:50:50,446
+which is actually what I do, 
+makes me feel like
+
+1102
+00:50:50,479 --> 00:50:51,881
+I'm a little bit out of place,
+
+1103
+00:50:51,914 --> 00:50:53,582
+or that they expect 
+that I wouldn't be
+
+1104
+00:50:53,616 --> 00:50:55,284
+a good software engineer.
+
+1105
+00:50:55,317 --> 00:50:56,785
+I've been doing this 
+for a long time
+
+1106
+00:50:56,819 --> 00:50:59,522
+and so I'll walk into, 
+let's say, a sales meeting
+
+1107
+00:50:59,555 --> 00:51:02,558
+or a customer gathering 
+somewhere,
+
+1108
+00:51:02,591 --> 00:51:05,427
+and I'll be there as 
+customers start to arrive.
+
+1109
+00:51:05,461 --> 00:51:07,730
+I can always tell 
+from body language
+
+1110
+00:51:07,763 --> 00:51:08,898
+and from the way 
+that people react
+
+1111
+00:51:08,931 --> 00:51:11,634
+that when they get there 
+and I greet them at the table
+
+1112
+00:51:11,667 --> 00:51:12,968
+and greet them at the door
+
+1113
+00:51:13,002 --> 00:51:15,638
+that they think that 
+I'm just the cute girl
+
+1114
+00:51:15,671 --> 00:51:17,773
+checking them in at the front.
+
+1115
+00:51:17,806 --> 00:51:20,342
+And then when 
+the program starts
+
+1116
+00:51:20,376 --> 00:51:21,577
+and I'm the second 
+or third speaker up,
+
+1117
+00:51:21,610 --> 00:51:24,013
+and I get up there and I start 
+talking about architectures
+
+1118
+00:51:24,046 --> 00:51:27,249
+and I'm talking about software, 
+it's so much fun.
+
+1119
+00:51:27,283 --> 00:51:30,419
+It's one of the most fun moments 
+that I have in those events
+
+1120
+00:51:30,452 --> 00:51:32,721
+because all of a sudden 
+people who are like,
+
+1121
+00:51:32,755 --> 00:51:36,759
+"Oh what's she coming up to talk 
+about?" start doing this...
+
+1122
+00:51:36,792 --> 00:51:39,495
+You know? 
+Like, "Wow!"
+
+1123
+00:51:39,528 --> 00:51:40,829
+It's not being 
+heard in a meeting
+
+1124
+00:51:40,863 --> 00:51:42,932
+or having someone else 
+repeat the same thing I've said.
+
+1125
+00:51:42,965 --> 00:51:45,935
+I definitely have felt effects 
+of people seeing my leadership
+
+1126
+00:51:45,968 --> 00:51:48,370
+and seeing--and feeling 
+uncomfortable with it.
+
+1127
+00:51:48,404 --> 00:51:49,939
+I've been called 
+"The Intimidator"
+
+1128
+00:51:49,972 --> 00:51:51,941
+by male leadership 
+at previous companies.
+
+1129
+00:51:51,974 --> 00:51:53,943
+Even now, when I, like, work 
+with, like, male programmers
+
+1130
+00:51:53,976 --> 00:51:55,644
+and things like that, 
+they'll often ask me,
+
+1131
+00:51:55,678 --> 00:51:57,346
+like, "Oh, so you're 
+teaching this whole thing,
+
+1132
+00:51:57,379 --> 00:51:58,914
+but have you ever 
+coded anything?"
+
+1133
+00:51:58,948 --> 00:52:01,283
+Which to me is, like, kind of 
+an odd question, right?
+
+1134
+00:52:01,317 --> 00:52:03,285
+Like, well, how would 
+I teach it if I hadn't?
+
+1135
+00:52:03,319 --> 00:52:04,620
+But there's this 
+assumption there, like,
+
+1136
+00:52:04,653 --> 00:52:05,955
+that I brought the coffee.
+
+1137
+00:52:05,988 --> 00:52:08,290
+One friend told me a story 
+of her male coworkers
+
+1138
+00:52:08,324 --> 00:52:11,427
+sharing pornography 
+in the IRC channel
+
+1139
+00:52:11,460 --> 00:52:12,761
+where they were all working.
+
+1140
+00:52:12,795 --> 00:52:14,296
+And when she 
+confronted them about it,
+
+1141
+00:52:14,330 --> 00:52:16,465
+they told her 
+to stop being such a girl.
+
+1142
+00:52:16,498 --> 00:52:18,300
+The tech world 
+and the tech culture
+
+1143
+00:52:18,334 --> 00:52:20,469
+will be so much 
+better for everyone
+
+1144
+00:52:20,502 --> 00:52:22,438
+when there are more women 
+in the room.
+
+1145
+00:52:22,471 --> 00:52:28,644
+The problem is it's hard to, 
+like, with a good conscience,
+
+1146
+00:52:28,677 --> 00:52:30,879
+encourage more women 
+to come into an environment
+
+1147
+00:52:30,913 --> 00:52:34,583
+that will, like, sexually 
+harass them and not fund them.
+
+1148
+00:52:34,617 --> 00:52:37,620
+(female reporter) 
+What you're about to hear 
+will likely offend you.
+
+1149
+00:52:37,653 --> 00:52:40,823
+It's part of a presentation 
+by Australian programmers
+
+1150
+00:52:40,856 --> 00:52:43,325
+on stage at one of 
+the tech world's largest
+
+1151
+00:52:43,359 --> 00:52:45,761
+and most 
+influential conferences.
+
+1152
+00:52:45,794 --> 00:52:48,464
+Again, you may 
+find this offensive.
+
+1153
+00:52:48,497 --> 00:52:49,999
+G'day, guys, 
+we're from Sydney, Australia
+
+1154
+00:52:50,032 --> 00:52:51,967
+and we're here to bring you--
+
+1155
+00:52:52,001 --> 00:52:54,370
+- Titstare! 
+- Titstare?
+
+1156
+00:52:54,403 --> 00:52:56,939
+Titstare is an app where 
+you take photos of yourself
+
+1157
+00:52:56,972 --> 00:52:58,474
+staring at tits.
+
+1158
+00:52:58,507 --> 00:52:59,808
+Why, Dave, why?
+
+1159
+00:52:59,842 --> 00:53:01,343
+Well, I'll tell you, Jethro.
+
+1160
+00:53:01,377 --> 00:53:03,078
+It's science my good friend. 
+Science.
+
+1161
+00:53:03,112 --> 00:53:04,279
+Science?
+
+1162
+00:53:04,313 --> 00:53:07,016
+Did you know that looking 
+at breasts is directly linked
+
+1163
+00:53:07,049 --> 00:53:08,917
+with a good, healthy heart.
+
+1164
+00:53:08,951 --> 00:53:10,919
+So, what's the problem, Dave?
+
+1165
+00:53:10,953 --> 00:53:14,456
+Well, women just 
+aren't that warm to it.
+
+1166
+00:53:14,490 --> 00:53:17,493
+It's the breast, most 
+titillating fun you cans have.
+
+1167
+00:53:17,526 --> 00:53:18,861
+(Jethro) 
+Thanks.
+
+1168
+00:53:20,396 --> 00:53:22,865
+(reporter) 
+That was an app dreamed up 
+during an overnight hackathon
+
+1169
+00:53:22,898 --> 00:53:25,901
+and presented 
+to an audience of 500.
+
+1170
+00:53:25,934 --> 00:53:32,107
+The creators later said 
+it was a parody.
+
+1171
+00:53:32,141 --> 00:53:34,376
+The fratty culture that results
+
+1172
+00:53:34,410 --> 00:53:36,478
+is getting a lot 
+more attention lately
+
+1173
+00:53:36,512 --> 00:53:39,915
+as these incidents 
+happen so publicly.
+
+1174
+00:53:42,685 --> 00:53:44,887
+A fire storm forced out 
+the Business Insider
+
+1175
+00:53:44,920 --> 00:53:47,823
+site's Chief Technology Officer on Tuesday
+
+1176
+00:53:47,856 --> 00:53:51,927
+after his bigoted and sexist 
+Twitter feed got wide notice.
+
+1177
+00:53:51,960 --> 00:54:02,004
+♪♪♪
+
+1178
+00:54:02,004 --> 00:54:07,776
+♪♪♪
+
+1179
+00:54:07,810 --> 00:54:09,411
+(interviewer) 
+Pax, what were you tweeting?
+
+1180
+00:54:09,445 --> 00:54:13,015
+I maybe didn't take 
+Titstare seriously, I guess?
+
+1181
+00:54:13,048 --> 00:54:16,418
+I thought it was a joke 
+and I trivialized it.
+
+1182
+00:54:16,452 --> 00:54:20,055
+And I guess, you know, 
+I didn't see it that way.
+
+1183
+00:54:20,089 --> 00:54:24,059
+Maybe from my experiences 
+it wasn't a big deal.
+
+1184
+00:54:27,629 --> 00:54:30,866
+I had always treated 
+Twitter as sort of a game.
+
+1185
+00:54:30,899 --> 00:54:33,602
+I think I am responsible 
+for giving people
+
+1186
+00:54:33,635 --> 00:54:38,207
+the wrong impression of me, 
+and that's my bad.
+
+1187
+00:54:38,240 --> 00:54:41,143
+And it's not a freedom of speech issue 'cause, you know,
+
+1188
+00:54:41,176 --> 00:54:42,845
+I didn't get in trouble 
+with the government.
+
+1189
+00:54:42,878 --> 00:54:44,079
+I'm working for a company.
+
+1190
+00:54:44,113 --> 00:54:47,182
+I'm free to say what I want and they're free to not employ me.
+
+1191
+00:54:47,216 --> 00:54:50,652
+And I sort of dug 
+my own hole there.
+
+1192
+00:54:50,686 --> 00:54:53,622
+I created an impression of me 
+that wasn't true
+
+1193
+00:54:53,655 --> 00:54:55,524
+and now I pay the price for it.
+
+1194
+00:54:55,557 --> 00:55:07,536
+♪♪♪
+
+1195
+00:55:07,569 --> 00:55:09,705
+(Julie Ann Horvath) 
+I don't think women 
+are motivated to join
+
+1196
+00:55:09,738 --> 00:55:11,173
+a male-dominated industry.
+
+1197
+00:55:11,206 --> 00:55:15,611
+I think it's very evident 
+that that battle is uphill.
+
+1198
+00:55:19,581 --> 00:55:21,016
+I love being a maker.
+
+1199
+00:55:21,049 --> 00:55:23,919
+I love making things and 
+I love that I can have an idea
+
+1200
+00:55:23,952 --> 00:55:27,656
+and, if I make a website 
+for it, it exists.
+
+1201
+00:55:31,226 --> 00:55:33,028
+For the first 
+5 years of my career,
+
+1202
+00:55:33,061 --> 00:55:36,865
+I thought that this 
+gender discrimination
+
+1203
+00:55:36,899 --> 00:55:39,968
+and the attitude towards women 
+were just a normal thing
+
+1204
+00:55:40,002 --> 00:55:43,839
+that I had to put up with 
+because I was career oriented.
+
+1205
+00:55:43,872 --> 00:55:45,741
+It's not normal.
+
+1206
+00:55:45,774 --> 00:55:50,512
+Everyone, men and women, 
+deserve a safe place to work
+
+1207
+00:55:50,546 --> 00:55:52,114
+and they deserve respect.
+
+1208
+00:55:52,147 --> 00:55:53,882
+If you hire someone 
+onto your team,
+
+1209
+00:55:53,916 --> 00:55:56,485
+they deserve the respect 
+from everyone on your team.
+
+1210
+00:55:58,687 --> 00:56:00,856
+Males tend to project 
+their nerd girl fantasies
+
+1211
+00:56:00,889 --> 00:56:02,991
+onto any woman that 
+they can in this industry,
+
+1212
+00:56:03,025 --> 00:56:04,526
+and it makes it really hard
+
+1213
+00:56:04,560 --> 00:56:05,894
+for women to be seen 
+as professionals
+
+1214
+00:56:05,928 --> 00:56:07,596
+because as soon as 
+a woman gets introduced
+
+1215
+00:56:07,629 --> 00:56:08,931
+into the environment
+
+1216
+00:56:08,964 --> 00:56:10,098
+it's like fucking 
+blood in the water.
+
+1217
+00:56:10,132 --> 00:56:13,068
+Every guy is, like-- 
+and I've watched this happen.
+
+1218
+00:56:16,572 --> 00:56:19,208
+Gentlemen, 
+welcome to the big show,
+
+1219
+00:56:19,241 --> 00:56:22,711
+TechCrunch 
+motherfucking Disrupt.
+
+1220
+00:56:22,744 --> 00:56:25,614
+Okay guys, this place 
+is a vortex of distraction.
+
+1221
+00:56:25,647 --> 00:56:27,883
+Normally the tech world 
+is 2% women.
+
+1222
+00:56:27,916 --> 00:56:31,653
+Guys, these next 3 days, 15%.
+
+1223
+00:56:31,687 --> 00:56:33,989
+It's a goddamn meat market.
+
+1224
+00:56:34,022 --> 00:56:39,094
+So, I was hired as the, I think, 
+62nd employee at GitHub overall,
+
+1225
+00:56:39,127 --> 00:56:42,197
+but I was GitHub's 
+first female designer developer,
+
+1226
+00:56:42,231 --> 00:56:44,933
+and at the time, 
+the only woman
+
+1227
+00:56:44,967 --> 00:56:46,969
+that's on any technical team 
+at GitHub.
+
+1228
+00:56:47,002 --> 00:56:53,141
+♪♪♪
+
+1229
+00:56:53,175 --> 00:56:56,044
+While the culture was really supportive of women in general,
+
+1230
+00:56:56,078 --> 00:56:58,247
+like, women were really 
+supportive of each other,
+
+1231
+00:56:58,280 --> 00:57:01,216
+not having that support 
+on the technical teams
+
+1232
+00:57:01,250 --> 00:57:04,353
+and inside of the 
+technical discussions
+
+1233
+00:57:04,386 --> 00:57:07,356
+was a huge problem.
+
+1234
+00:57:07,389 --> 00:57:12,327
+♪♪♪
+
+1235
+00:57:12,361 --> 00:57:15,230
+You know, at first 
+there was this reaction
+
+1236
+00:57:15,264 --> 00:57:17,065
+that felt like 
+it was validating.
+
+1237
+00:57:17,099 --> 00:57:19,368
+Like, it felt like people 
+were actually listening.
+
+1238
+00:57:19,401 --> 00:57:23,038
+The longer I was there, 
+the more I started seeing
+
+1239
+00:57:23,071 --> 00:57:24,907
+sort of overt sexism 
+pop up in ways
+
+1240
+00:57:24,940 --> 00:57:26,708
+that I wasn't 
+comfortable with.
+
+1241
+00:57:26,742 --> 00:57:28,043
+A really good example of this
+
+1242
+00:57:28,076 --> 00:57:29,811
+was when I was 
+just like, "I'm done."
+
+1243
+00:57:29,845 --> 00:57:33,248
+I walked downstairs and there's just, like, a line of dudes
+
+1244
+00:57:33,282 --> 00:57:37,753
+sitting back on this bench and 
+watching two girls hula hoop.
+
+1245
+00:57:37,786 --> 00:57:39,087
+I get it.
+
+1246
+00:57:39,121 --> 00:57:40,789
+Like, I understand 
+what's happening here,
+
+1247
+00:57:40,822 --> 00:57:42,758
+but it looks like a strip club
+
+1248
+00:57:42,791 --> 00:57:44,693
+and it's making me 
+uncomfortable.
+
+1249
+00:57:44,726 --> 00:57:46,728
+And I brought that 
+up to a male friend
+
+1250
+00:57:46,762 --> 00:57:49,231
+and he got so pissed at me 
+because I told him,
+
+1251
+00:57:49,264 --> 00:57:50,399
+"If you're sitting there 
+saying nothing
+
+1252
+00:57:50,432 --> 00:57:52,901
+"or you're participating 
+in that type of behavior,
+
+1253
+00:57:52,935 --> 00:57:55,370
+you're part of the problem."
+
+1254
+00:57:55,404 --> 00:57:57,205
+And that's why 
+so many women leave tech,
+
+1255
+00:57:57,239 --> 00:57:58,907
+that feeling 
+of being that woman,
+
+1256
+00:57:58,941 --> 00:58:00,142
+the woman who speaks up.
+
+1257
+00:58:00,175 --> 00:58:03,011
+You know, "Is she nagging? 
+Is she this or is she that?"
+
+1258
+00:58:03,045 --> 00:58:11,153
+♪♪♪
+
+1259
+00:58:11,186 --> 00:58:13,789
+Within an hour, 
+not even an hour,
+
+1260
+00:58:13,822 --> 00:58:16,758
+someone had posted 
+on this anonymous app,
+
+1261
+00:58:16,792 --> 00:58:18,760
+"The self-proclaimed queen 
+of GitHub
+
+1262
+00:58:18,794 --> 00:58:21,797
+is leaving her throne. 
+The masses cheer."
+
+1263
+00:58:21,830 --> 00:58:22,965
+It seemed really petty,
+
+1264
+00:58:22,998 --> 00:58:25,667
+but I think what hurt 
+me the most was that I knew
+
+1265
+00:58:25,701 --> 00:58:27,336
+it had to have been someone 
+from my company,
+
+1266
+00:58:27,369 --> 00:58:29,338
+because my team was 
+the only people in the world
+
+1267
+00:58:29,371 --> 00:58:30,872
+that knew I was leaving.
+
+1268
+00:58:30,906 --> 00:58:32,207
+They were trying 
+to collect information
+
+1269
+00:58:32,240 --> 00:58:34,042
+to assassinate my character 
+and really make sure
+
+1270
+00:58:34,076 --> 00:58:36,712
+that I couldn't work again 
+or something.
+
+1271
+00:58:36,745 --> 00:58:39,381
+And so, that's really 
+what pushed me.
+
+1272
+00:58:39,414 --> 00:58:41,416
+Like, it pushed me 
+over the edge.
+
+1273
+00:58:43,118 --> 00:58:46,688
+So, there's a lot of things 
+like this on the Internet.
+
+1274
+00:58:46,722 --> 00:58:52,260
+Like, someone wrote a blog 
+post, "Ousted by this cunt."
+
+1275
+00:58:52,294 --> 00:58:53,929
+And it's just 
+calling me a cunt.
+
+1276
+00:58:53,962 --> 00:58:56,198
+I think I'll get 
+this one framed.
+
+1277
+00:58:56,231 --> 00:58:57,833
+It was pretty scary.
+
+1278
+00:58:57,866 --> 00:58:59,334
+I mean, I grew up in the hood,
+
+1279
+00:58:59,368 --> 00:59:01,269
+so Internet nerds 
+don't scare me.
+
+1280
+00:59:01,303 --> 00:59:03,105
+Like, 4Chan people 
+don't scare me.
+
+1281
+00:59:03,138 --> 00:59:04,439
+You know, famous last words.
+
+1282
+00:59:04,473 --> 00:59:07,075
+But, you know, 
+someone tweeted at me
+
+1283
+00:59:07,109 --> 00:59:09,244
+that they were gonna rape me 
+and my whole family,
+
+1284
+00:59:09,277 --> 00:59:14,249
+and they put my old 
+apartment address on Twitter.
+
+1285
+00:59:14,282 --> 00:59:15,917
+But then I kind of had to 
+snap out of it and say,
+
+1286
+00:59:15,951 --> 00:59:18,453
+"This is just Internet trolls."
+
+1287
+00:59:18,487 --> 00:59:20,822
+And you know, I still had 
+friends living at that address
+
+1288
+00:59:20,856 --> 00:59:22,491
+and it was scary.
+
+1289
+00:59:22,524 --> 00:59:24,960
+And I had to call them 
+and tell them, you know,
+
+1290
+00:59:24,993 --> 00:59:28,930
+"Be on the look out," 
+and that kind of thing.
+
+1291
+00:59:28,964 --> 00:59:30,732
+It's so intentionally 
+to hurt me.
+
+1292
+00:59:30,766 --> 00:59:31,933
+It's not trolling.
+
+1293
+00:59:31,967 --> 00:59:37,172
+It's, "I want to hurt you," and sometimes that's physically.
+
+1294
+00:59:37,205 --> 00:59:38,907
+Being excellent 
+or being good at your job
+
+1295
+00:59:38,940 --> 00:59:44,413
+isn't enough 
+if you're a woman in tech.
+
+1296
+00:59:44,446 --> 00:59:47,849
+And men are like, "Holy shit, 
+this stuff happens?"
+
+1297
+00:59:47,883 --> 00:59:51,987
+But how does anyone know 
+if no one talks about it?
+
+1298
+00:59:52,020 --> 00:59:54,289
+Because that's the lie we're all told our entire lives,
+
+1299
+00:59:54,322 --> 00:59:56,291
+is that we have 
+an equal opportunity,
+
+1300
+00:59:56,324 --> 00:59:59,327
+independent of our skin color, 
+of our race, of our religion.
+
+1301
+00:59:59,361 --> 01:00:01,463
+We're told this,
+
+1302
+01:00:01,496 --> 01:00:05,467
+but that's not actually 
+the case once you get there.
+
+1303
+01:00:05,500 --> 01:00:07,436
+All women say the same thing 
+once they get to that point.
+
+1304
+01:00:07,469 --> 01:00:09,771
+You know, they're saying, 
+"I just want to build stuff.
+
+1305
+01:00:09,805 --> 01:00:13,175
+I just want to build stuff," 
+until they hit that wall.
+
+1306
+01:00:13,208 --> 01:00:15,544
+And then someone 
+starts treating them unfairly
+
+1307
+01:00:15,577 --> 01:00:17,913
+because they're a woman, 
+or you know, harassing them,
+
+1308
+01:00:17,946 --> 01:00:21,083
+or whatever it is.
+
+1309
+01:00:21,116 --> 01:00:22,417
+It's not until that moment
+
+1310
+01:00:22,451 --> 01:00:29,257
+that you see why there's such 
+a reaction to sexism in tech.
+
+1311
+01:00:32,027 --> 01:00:46,475
+♪♪♪
+
+1312
+01:00:46,508 --> 01:00:49,044
+(Alysia) 
+I know a lot of girls 
+and a lot of guys
+
+1313
+01:00:49,077 --> 01:00:50,378
+that are on their phones,
+
+1314
+01:00:50,412 --> 01:00:52,914
+but they're not thinking, 
+"How does that work?
+
+1315
+01:00:52,948 --> 01:00:54,116
+How do you do that?"
+
+1316
+01:00:54,149 --> 01:00:59,921
+They're just thinking, "Oh, someone else is gonna make it."
+
+1317
+01:00:59,955 --> 01:01:03,058
+They're not thinking, 
+"Oh maybe I can create that too,
+
+1318
+01:01:03,091 --> 01:01:06,294
+or I can be--or I can 
+make the next big thing."
+
+1319
+01:01:08,930 --> 01:01:11,366
+Well most people say, 
+"That's a guy job.
+
+1320
+01:01:11,399 --> 01:01:14,870
+That's what guys do. 
+Guys are smarter than girls."
+
+1321
+01:01:14,903 --> 01:01:16,938
+And most girls these days 
+they're just like,
+
+1322
+01:01:16,972 --> 01:01:19,341
+"Oh, math, I hate math 
+and I'm not good at math,"
+
+1323
+01:01:19,374 --> 01:01:22,277
+or same with science.
+
+1324
+01:01:22,310 --> 01:01:24,012
+They're not pushing themselves
+
+1325
+01:01:24,045 --> 01:01:27,282
+or trying to look out 
+for new opportunities.
+
+1326
+01:01:29,284 --> 01:01:32,420
+(Ashley) 
+The thing is 
+that once they said,
+
+1327
+01:01:32,454 --> 01:01:36,091
+"Oh, women can't do this 
+because men can do it better,"
+
+1328
+01:01:36,124 --> 01:01:38,026
+that lowers their confidence
+
+1329
+01:01:38,059 --> 01:01:41,096
+and they pass it on to the 
+next generation and throughout.
+
+1330
+01:01:41,129 --> 01:01:47,936
+So, if we change that now, it'll be a lot different later.
+
+1331
+01:01:47,969 --> 01:01:51,206
+Ever since I was little, 
+I always thought to myself,
+
+1332
+01:01:51,239 --> 01:01:53,575
+"I want to grow up 
+and inspire other women
+
+1333
+01:01:53,608 --> 01:01:57,412
+to change the world someday."
+
+1334
+01:01:57,445 --> 01:01:59,614
+I thought it would be fun 
+to have a new experience,
+
+1335
+01:01:59,648 --> 01:02:03,952
+and my family is always having problems with technology,
+
+1336
+01:02:03,985 --> 01:02:09,224
+so I try and see 
+how it is I can help.
+
+1337
+01:02:09,257 --> 01:02:11,226
+(teacher) 
+Nicely done.
+
+1338
+01:02:11,259 --> 01:02:14,129
+(Ashley) 
+I probably see myself working 
+at a software company,
+
+1339
+01:02:14,162 --> 01:02:17,132
+or something with 
+a lot of technology
+
+1340
+01:02:17,165 --> 01:02:20,035
+'cause I like 
+to like explore things.
+
+1341
+01:02:20,068 --> 01:02:23,939
+And the thing that I always 
+remember to keep me going,
+
+1342
+01:02:23,972 --> 01:02:28,376
+you give it 1,000% and above.
+
+1343
+01:02:28,410 --> 01:02:30,545
+(Alysia) 
+I'm most likely gonna 
+go into computer science.
+
+1344
+01:02:30,579 --> 01:02:32,547
+Hopefully I'm able to help
+
+1345
+01:02:32,581 --> 01:02:35,116
+with the next big thing 
+that's coming.
+
+1346
+01:02:39,588 --> 01:02:42,657
+(Aliya Rahman) 
+I believe anybody 
+can learn to code.
+
+1347
+01:02:42,691 --> 01:02:45,026
+The things that they're gonna 
+need to be able to learn
+
+1348
+01:02:45,060 --> 01:02:46,962
+is different.
+
+1349
+01:02:46,995 --> 01:02:49,965
+I was the first person 
+in my family to decide
+
+1350
+01:02:49,998 --> 01:02:51,299
+they wanted to go to college
+
+1351
+01:02:51,333 --> 01:02:53,235
+for the purpose 
+of a job, et cetera.
+
+1352
+01:02:53,268 --> 01:02:54,469
+So, when I was growing up,
+
+1353
+01:02:54,502 --> 01:02:57,339
+there really wasn't kind of a situation where anyone was like,
+
+1354
+01:02:57,372 --> 01:02:59,507
+"Oh, you know, 
+you could be a programmer."
+
+1355
+01:03:00,342 --> 01:03:01,943
+As someone who 
+studied rocket science,
+
+1356
+01:03:01,977 --> 01:03:03,945
+I can tell you that coding 
+is not rocket science.
+
+1357
+01:03:03,979 --> 01:03:07,616
+But people can learn.
+
+1358
+01:03:07,649 --> 01:03:09,484
+And I think women 
+reserve the right to make
+
+1359
+01:03:09,517 --> 01:03:11,720
+nerdy, Star Trekkie things 
+too, you know?
+
+1360
+01:03:11,753 --> 01:03:12,954
+But the kinds of things that,
+
+1361
+01:03:12,988 --> 01:03:15,624
+when our folks applied to 
+our program, we asked them.
+
+1362
+01:03:15,657 --> 01:03:17,325
+"What is an app 
+that you might make
+
+1363
+01:03:17,359 --> 01:03:19,961
+that addresses a social need 
+in your community?"
+
+1364
+01:03:19,995 --> 01:03:21,630
+So, if I do the opening 
+and the closing
+
+1365
+01:03:21,663 --> 01:03:23,331
+and you want to do 
+the people's names,
+
+1366
+01:03:23,365 --> 01:03:24,699
+like, that's doable.
+
+1367
+01:03:25,967 --> 01:03:28,069
+And look, minority communities 
+are not a charity, right?
+
+1368
+01:03:28,103 --> 01:03:29,404
+We're a market.
+
+1369
+01:03:29,437 --> 01:03:30,605
+We're an electorate.
+
+1370
+01:03:30,639 --> 01:03:33,275
+So, think about the fact that it may actually really help you
+
+1371
+01:03:33,308 --> 01:03:35,143
+get a better product.
+
+1372
+01:03:35,176 --> 01:03:40,115
+♪♪♪
+
+1373
+01:03:40,148 --> 01:03:42,284
+You can do it, right, 
+if you want to do it.
+
+1374
+01:03:42,317 --> 01:03:43,618
+Don't ask permission.
+
+1375
+01:03:43,652 --> 01:03:45,620
+Find some folks who 
+really want to invest in you
+
+1376
+01:03:45,654 --> 01:03:47,322
+and teach you, and do it. 
+You can.
+
+1377
+01:03:47,355 --> 01:03:49,658
+We are told from a small age 
+about who founded this country,
+
+1378
+01:03:49,691 --> 01:03:52,193
+but we learn over the rest 
+of our lives who built it.
+
+1379
+01:03:52,227 --> 01:03:54,362
+This is our country, our cities, 
+our communities,
+
+1380
+01:03:54,396 --> 01:03:57,165
+our children, our code.
+
+1381
+01:03:57,198 --> 01:03:59,167
+So, now the work begins.
+
+1382
+01:03:59,200 --> 01:04:01,269
+You're in our hearts.
+
+1383
+01:04:01,303 --> 01:04:05,073
+[audience applauding]
+
+1384
+01:04:07,108 --> 01:04:09,644
+These are great jobs, 
+and women just, like,
+
+1385
+01:04:09,678 --> 01:04:11,646
+really deserve 
+to have access to them.
+
+1386
+01:04:11,680 --> 01:04:15,550
+My message to other universities 
+is that, first of all,
+
+1387
+01:04:15,583 --> 01:04:19,387
+it's not that hard to get more 
+women into computer science.
+
+1388
+01:04:19,421 --> 01:04:29,364
+♪♪♪
+
+1389
+01:04:29,397 --> 01:04:33,268
+Make your intro courses 
+appealing, interesting,
+
+1390
+01:04:33,301 --> 01:04:36,171
+and not scary.
+
+1391
+01:04:36,204 --> 01:04:39,741
+Encourage students, after they've taken the intro course,
+
+1392
+01:04:39,774 --> 01:04:42,344
+to take the next course.
+
+1393
+01:04:42,377 --> 01:04:45,580
+And you have to make sure that the classroom environments
+
+1394
+01:04:45,613 --> 01:04:48,416
+are going to be supportive.
+
+1395
+01:04:48,450 --> 01:04:49,751
+We can give variables values.
+
+1396
+01:04:49,784 --> 01:04:52,821
+Like, I can give "A" 
+the value "3."
+
+1397
+01:04:52,854 --> 01:04:54,356
+That first semester 
+computer science course,
+
+1398
+01:04:54,389 --> 01:04:56,257
+across the board, 
+is gonna be really important
+
+1399
+01:04:56,291 --> 01:04:58,293
+in terms of shaping 
+the diversity
+
+1400
+01:04:58,326 --> 01:05:00,562
+in your 
+computer science major.
+
+1401
+01:05:00,595 --> 01:05:02,464
+At Mudd, 
+every student is required
+
+1402
+01:05:02,497 --> 01:05:06,067
+to take computer science 
+in their first semester.
+
+1403
+01:05:06,101 --> 01:05:09,270
+And part of what I think 
+is great about the course
+
+1404
+01:05:09,304 --> 01:05:11,172
+is that it's not just one thing.
+
+1405
+01:05:11,206 --> 01:05:12,340
+It's about the title.
+
+1406
+01:05:12,374 --> 01:05:15,443
+It's about the first five words 
+you say on the first day.
+
+1407
+01:05:15,477 --> 01:05:17,212
+It's about the gender makeup 
+in the room.
+
+1408
+01:05:17,245 --> 01:05:19,114
+It's about what the first 
+homework assignment is like.
+
+1409
+01:05:19,147 --> 01:05:21,383
+It's about what the structure is 
+for getting help.
+
+1410
+01:05:21,416 --> 01:05:24,419
+It's about the attitude towards failure presented in the class.
+
+1411
+01:05:24,452 --> 01:05:26,154
+There are all these things 
+that are shaping
+
+1412
+01:05:26,187 --> 01:05:27,789
+whether or not 
+a computer science class
+
+1413
+01:05:27,822 --> 01:05:31,326
+is a welcoming environment 
+or not.
+
+1414
+01:05:31,359 --> 01:05:34,496
+(Maria Klawe) 
+It's not particularly more 
+expensive to do any of this.
+
+1415
+01:05:34,529 --> 01:05:36,731
+It's just a question 
+of being consistent
+
+1416
+01:05:36,765 --> 01:05:40,535
+and realizing that it's 
+not gonna happen overnight.
+
+1417
+01:05:40,568 --> 01:05:44,572
+So, if you stop paying attention, it'll go away again.
+
+1418
+01:05:44,606 --> 01:05:46,508
+But if you care about it 
+and you persist,
+
+1419
+01:05:46,541 --> 01:05:49,377
+you will see 
+the numbers increase.
+
+1420
+01:05:51,880 --> 01:05:53,681
+Well, I'm a grad student 
+at Mills College.
+
+1421
+01:05:53,715 --> 01:05:56,351
+My program formally 
+is Education Leadership,
+
+1422
+01:05:56,384 --> 01:05:57,685
+but I'm actually 
+supplementing it
+
+1423
+01:05:57,719 --> 01:05:59,421
+with a post-bac 
+in Computer Science.
+
+1424
+01:05:59,454 --> 01:06:07,195
+♪♪♪
+
+1425
+01:06:07,228 --> 01:06:09,731
+If compare result 
+is less than 0, it does this.
+
+1426
+01:06:09,764 --> 01:06:11,266
+(Courtney Nash) 
+I've always been a nerd.
+
+1427
+01:06:11,299 --> 01:06:13,301
+When I was a kid, 
+I grew up kinda, like,
+
+1428
+01:06:13,334 --> 01:06:14,702
+taking apart computers, 
+and reconfiguring settings,
+
+1429
+01:06:14,736 --> 01:06:16,604
+and stuff like that.
+
+1430
+01:06:16,638 --> 01:06:18,506
+But growing up, 
+I was actually a system kid,
+
+1431
+01:06:18,540 --> 01:06:19,841
+so I bounced around a lot.
+
+1432
+01:06:19,874 --> 01:06:22,544
+But one of the homes 
+that I was in for a long time,
+
+1433
+01:06:22,577 --> 01:06:24,646
+we actually were lucky enough 
+to have computers.
+
+1434
+01:06:24,679 --> 01:06:26,181
+Until I got here, 
+I didn't know
+
+1435
+01:06:26,214 --> 01:06:28,650
+that I could learn how to code, like, so quickly.
+
+1436
+01:06:28,683 --> 01:06:30,385
+I just didn't think 
+I'd had the background.
+
+1437
+01:06:30,418 --> 01:06:32,420
+I mean, I thought it was 
+something that would take,
+
+1438
+01:06:32,454 --> 01:06:35,490
+you know, years, and I just 
+didn't know I could do it.
+
+1439
+01:06:35,523 --> 01:06:36,891
+For me, the turning point
+
+1440
+01:06:36,925 --> 01:06:38,927
+was when I got 
+my first GUI on the screen.
+
+1441
+01:06:38,960 --> 01:06:41,863
+A GUI is 
+a graphic user interface.
+
+1442
+01:06:41,896 --> 01:06:43,898
+So, I think, like, 
+the first time I got, like,
+
+1443
+01:06:43,932 --> 01:06:45,433
+a GUI to appear 
+just, like, coding,
+
+1444
+01:06:45,467 --> 01:06:47,702
+I was like, 
+"Oh, my God, I can do this."
+
+1445
+01:06:47,735 --> 01:06:49,938
+So, I'm coding alongside women 
+who are gonna go out
+
+1446
+01:06:49,971 --> 01:06:51,806
+and join the workforce 
+and join the ranks.
+
+1447
+01:06:51,840 --> 01:06:53,675
+And it's like, 
+we kind of know each other,
+
+1448
+01:06:53,708 --> 01:06:55,677
+we have that camaraderie, 
+we have that relationship.
+
+1449
+01:06:55,710 --> 01:06:56,911
+So, I think that 
+that's really important,
+
+1450
+01:06:56,945 --> 01:06:59,514
+that we're kind of building, 
+like, a little mafia here of,
+
+1451
+01:06:59,547 --> 01:07:02,484
+like, women in code 
+and women in computer science.
+
+1452
+01:07:04,352 --> 01:07:06,454
+(interviewer) 
+So, why do you think 
+there aren't more
+
+1453
+01:07:06,488 --> 01:07:08,690
+women computer scientists?
+
+1454
+01:07:08,723 --> 01:07:10,458
+That's a really good question,
+
+1455
+01:07:10,492 --> 01:07:15,497
+and I would love to know the 
+answer when you guys find out.
+
+1456
+01:07:15,530 --> 01:07:18,466
+I'm the kind of person that, when I like something, I do it.
+
+1457
+01:07:18,500 --> 01:07:19,601
+I went to MIT.
+
+1458
+01:07:19,634 --> 01:07:22,203
+I did not think I was 
+gonna be in computer science.
+
+1459
+01:07:22,237 --> 01:07:24,539
+You know, I was the kind of girl 
+that didn't really know
+
+1460
+01:07:24,572 --> 01:07:25,874
+how to work her DVD player.
+
+1461
+01:07:25,907 --> 01:07:27,408
+And so I was like, you know,
+
+1462
+01:07:27,442 --> 01:07:28,743
+"I could never be 
+a software engineer."
+
+1463
+01:07:28,776 --> 01:07:30,044
+And I had to take a class
+
+1464
+01:07:30,078 --> 01:07:33,581
+that was just kind of a basic 
+Java for engineering class,
+
+1465
+01:07:33,615 --> 01:07:35,617
+and I really liked it 
+so I ended up switching
+
+1466
+01:07:35,650 --> 01:07:37,485
+to a Math/CS major.
+
+1467
+01:07:37,519 --> 01:07:46,828
+♪♪♪
+
+1468
+01:07:46,861 --> 01:07:48,363
+I think people 
+are sometimes surprised
+
+1469
+01:07:48,396 --> 01:07:50,498
+when I tell them I work 
+in computer science,
+
+1470
+01:07:50,532 --> 01:07:53,935
+just because it is 
+a male-dominated industry.
+
+1471
+01:07:53,968 --> 01:07:55,770
+We're all first and foremost 
+athletes here,
+
+1472
+01:07:55,803 --> 01:07:57,472
+and I feel like I fit right in
+
+1473
+01:07:57,505 --> 01:08:00,008
+'cause I've been a runner 
+since I was born.
+
+1474
+01:08:00,041 --> 01:08:02,644
+I can relate to people who 
+understand that being active
+
+1475
+01:08:02,677 --> 01:08:04,679
+is an important 
+part of your life
+
+1476
+01:08:04,712 --> 01:08:06,414
+and that it's okay to go out
+
+1477
+01:08:06,447 --> 01:08:08,750
+and take an hour to run 
+during the middle of the day,
+
+1478
+01:08:08,783 --> 01:08:10,285
+'cause it means 
+that you're gonna be
+
+1479
+01:08:10,318 --> 01:08:12,854
+that much more productive 
+when you come back.
+
+1480
+01:08:12,887 --> 01:08:15,323
+The computer science culture 
+that I experience
+
+1481
+01:08:15,356 --> 01:08:16,524
+is what I get down here,
+
+1482
+01:08:16,558 --> 01:08:18,660
+and I think that's probably 
+different from what you get
+
+1483
+01:08:18,693 --> 01:08:19,994
+in a lot of places.
+
+1484
+01:08:20,028 --> 01:08:22,030
+That's the argument 
+from the tooth.
+
+1485
+01:08:22,063 --> 01:08:24,832
+It seems pretty easy.
+
+1486
+01:08:24,866 --> 01:08:26,367
+(Evelyn Cordner) 
+We all work on teams.
+
+1487
+01:08:26,401 --> 01:08:28,303
+We all contribute 
+to code equally.
+
+1488
+01:08:28,336 --> 01:08:30,572
+So, it's very rare 
+that you find yourself
+
+1489
+01:08:30,605 --> 01:08:33,408
+working with a code base 
+all by yourself.
+
+1490
+01:08:33,441 --> 01:08:37,545
+The APIN point, 
+when we load the profile?
+
+1491
+01:08:37,579 --> 01:08:39,781
+Computer science kind of 
+lets you go into any industry.
+
+1492
+01:08:39,814 --> 01:08:41,416
+I could work in nutrition.
+
+1493
+01:08:41,449 --> 01:08:43,284
+I could work in environmental.
+
+1494
+01:08:43,318 --> 01:08:44,786
+You know, 
+I can do whatever I want
+
+1495
+01:08:44,819 --> 01:08:46,921
+because there's 
+so much demand
+
+1496
+01:08:46,955 --> 01:08:49,057
+for software engineers 
+out there.
+
+1497
+01:08:49,090 --> 01:08:51,859
+It definitely takes 
+a more technical mind,
+
+1498
+01:08:51,893 --> 01:08:53,728
+but, you know, 
+I think anyone can do anything
+
+1499
+01:08:53,761 --> 01:08:55,063
+they set their mind to.
+
+1500
+01:08:55,096 --> 01:08:57,465
+If they're determined, 
+they'll do it.
+
+1501
+01:09:04,072 --> 01:09:06,641
+If we wait for 
+the next generation,
+
+1502
+01:09:06,674 --> 01:09:09,777
+that's not generally been a very 
+successful approach to change.
+
+1503
+01:09:09,811 --> 01:09:17,619
+♪♪♪
+
+1504
+01:09:17,652 --> 01:09:20,388
+It was only my second job 
+in New York, and I was like,
+
+1505
+01:09:20,421 --> 01:09:22,690
+"Wow, you know, there are so 
+many different people here.
+
+1506
+01:09:22,724 --> 01:09:25,526
+This whole company just feels 
+so mixed and wonderful."
+
+1507
+01:09:25,560 --> 01:09:27,695
+And then I went to 
+the engineering, and I was like,
+
+1508
+01:09:27,729 --> 01:09:30,498
+"Oh, it's all white guys again." 
+Like, "Here we go again."
+
+1509
+01:09:30,531 --> 01:09:31,966
+And we came up with this idea
+
+1510
+01:09:32,000 --> 01:09:35,570
+about how to try 
+and encourage more women
+
+1511
+01:09:35,603 --> 01:09:37,639
+to join that 
+engineering department.
+
+1512
+01:09:37,672 --> 01:09:44,979
+♪♪♪
+
+1513
+01:09:45,013 --> 01:09:46,648
+The first initiative, 
+as I understand it,
+
+1514
+01:09:46,681 --> 01:09:48,783
+was supplying grants for women
+
+1515
+01:09:48,816 --> 01:09:50,785
+to attend Hacker School 
+for the summer.
+
+1516
+01:09:50,818 --> 01:09:53,488
+Etsy started that 
+in the summer of 2012,
+
+1517
+01:09:53,521 --> 01:09:55,556
+and that was the batch 
+that I attended.
+
+1518
+01:09:55,590 --> 01:09:58,693
+From there, 
+there was enormous growth
+
+1519
+01:09:58,726 --> 01:10:01,496
+in the number of 
+female engineers at Etsy.
+
+1520
+01:10:01,529 --> 01:10:09,103
+♪♪♪
+
+1521
+01:10:09,137 --> 01:10:10,972
+Our tech group 
+is made up of 31% women.
+
+1522
+01:10:11,005 --> 01:10:13,574
+I've seen a number of managers 
+take steps to make sure
+
+1523
+01:10:13,608 --> 01:10:15,576
+that our interview panels 
+are super diverse
+
+1524
+01:10:15,610 --> 01:10:17,578
+and that the female engineers 
+we're interviewing
+
+1525
+01:10:17,612 --> 01:10:19,447
+aren't just, like, 
+the culture slot.
+
+1526
+01:10:19,480 --> 01:10:21,783
+And also, we talk a lot about 
+how we retain women here,
+
+1527
+01:10:21,816 --> 01:10:24,419
+so we don't just focus on 
+the pipeline problem.
+
+1528
+01:10:24,452 --> 01:10:25,753
+I don't think 
+it's that difficult
+
+1529
+01:10:25,787 --> 01:10:27,655
+to hire more women coders.
+
+1530
+01:10:27,689 --> 01:10:28,990
+I go to a lot of conferences.
+
+1531
+01:10:29,023 --> 01:10:30,525
+I meet a lot of women.
+
+1532
+01:10:30,558 --> 01:10:31,859
+They're all qualified, 
+and they're all amazing,
+
+1533
+01:10:31,893 --> 01:10:35,129
+and I want them all 
+to come work for us.
+
+1534
+01:10:35,163 --> 01:10:36,931
+Having more women here 
+has made
+
+1535
+01:10:36,964 --> 01:10:38,666
+the line for the bathroom 
+a lot longer,
+
+1536
+01:10:38,700 --> 01:10:40,168
+but I think that 
+that's an okay difference
+
+1537
+01:10:40,201 --> 01:10:41,703
+than other startups.
+
+1538
+01:10:41,736 --> 01:10:42,870
+(Bethany Macri) 
+I asked my male coworkers,
+
+1539
+01:10:42,904 --> 01:10:45,106
+"What do you think of 
+having females on the team?"
+
+1540
+01:10:45,139 --> 01:10:47,442
+And they said, "We're happier."
+
+1541
+01:10:47,475 --> 01:10:49,711
+They don't want to be a part 
+of something that's backwards
+
+1542
+01:10:49,744 --> 01:10:53,748
+and they don't want to not have 
+the best people around them.
+
+1543
+01:10:53,781 --> 01:10:55,683
+(Marc Hedlund) 
+We acknowledged the problem.
+
+1544
+01:10:55,717 --> 01:10:57,819
+We devoted, really, a lot 
+of money, and resources,
+
+1545
+01:10:57,852 --> 01:11:01,022
+and time to it, and we got 
+a lot of very good responses
+
+1546
+01:11:01,055 --> 01:11:03,925
+as a result of that.
+
+1547
+01:11:03,958 --> 01:11:06,461
+I think what we did 
+was good, but to me,
+
+1548
+01:11:06,494 --> 01:11:08,129
+the next step is to say
+
+1549
+01:11:08,162 --> 01:11:10,565
+real substantial change 
+in the industry has to come
+
+1550
+01:11:10,598 --> 01:11:12,633
+from there being women 
+in leadership roles
+
+1551
+01:11:12,667 --> 01:11:14,035
+in the industry.
+
+1552
+01:11:14,068 --> 01:11:16,471
+You have to be impatient. 
+This has to happen now.
+
+1553
+01:11:16,504 --> 01:11:17,972
+We have to do 
+what we can now.
+
+1554
+01:11:18,005 --> 01:11:19,707
+Whatever it takes 
+to move the number now,
+
+1555
+01:11:19,741 --> 01:11:21,075
+we have to do that now.
+
+1556
+01:11:21,943 --> 01:11:24,846
+(Tracy Chou) 
+41% of women in tech
+
+1557
+01:11:24,879 --> 01:11:26,781
+will leave by the 10-year mark
+
+1558
+01:11:26,814 --> 01:11:29,550
+versus 17% for men.
+
+1559
+01:11:29,584 --> 01:11:31,052
+A lot of women feel like, 
+around mid-career,
+
+1560
+01:11:31,085 --> 01:11:34,789
+that their career 
+trajectories are slowing down
+
+1561
+01:11:34,822 --> 01:11:36,591
+and their growth is stalling,
+
+1562
+01:11:36,624 --> 01:11:38,726
+as opposed to many men who, 
+around mid-career,
+
+1563
+01:11:38,760 --> 01:11:41,729
+are starting to see 
+their careers accelerate.
+
+1564
+01:11:41,763 --> 01:11:43,231
+Yes, we do need 
+to get more women
+
+1565
+01:11:43,264 --> 01:11:44,799
+going through the pipeline.
+
+1566
+01:11:44,832 --> 01:11:46,601
+And there is a lot to be done
+
+1567
+01:11:46,634 --> 01:11:48,236
+in terms of keeping 
+women in industry
+
+1568
+01:11:48,269 --> 01:11:50,204
+once they're already there.
+
+1569
+01:11:50,238 --> 01:12:00,481
+♪♪♪
+
+1570
+01:12:00,515 --> 01:12:03,851
+We're on a path 
+that's unstoppable,
+
+1571
+01:12:03,885 --> 01:12:05,853
+and you guys 
+and we, the techies,
+
+1572
+01:12:05,887 --> 01:12:07,622
+are a big part of that.
+
+1573
+01:12:07,655 --> 01:12:09,957
+One of the big things that we 
+just have to keep doing
+
+1574
+01:12:09,991 --> 01:12:11,826
+is keep demanding and pushing.
+
+1575
+01:12:11,859 --> 01:12:13,895
+You know, that's how 
+all change happens.
+
+1576
+01:12:13,928 --> 01:12:18,166
+And we really have a 
+culture problem in technology.
+
+1577
+01:12:18,199 --> 01:12:20,201
+What I see is a death 
+by a thousand cuts
+
+1578
+01:12:20,234 --> 01:12:22,937
+from all the unconscious bias 
+that lives around us.
+
+1579
+01:12:22,970 --> 01:12:25,072
+And I'm hopeful because 
+I think the tech industry
+
+1580
+01:12:25,106 --> 01:12:27,275
+could move the fastest 
+of all the industries.
+
+1581
+01:12:27,308 --> 01:12:29,977
+That's how we roll 
+and that's what we could do.
+
+1582
+01:12:30,011 --> 01:12:32,079
+If we see the problem, 
+we can debug it,
+
+1583
+01:12:32,113 --> 01:12:35,016
+and I encourage us to do that.
+
+1584
+01:12:35,049 --> 01:12:38,786
+(Walter Isaacson) 
+For the digital revolution 
+to truly be great
+
+1585
+01:12:38,820 --> 01:12:41,989
+and to transform this world, 
+it's gotta be inclusive.
+
+1586
+01:12:42,023 --> 01:12:44,659
+It's gotta have women. 
+It's gotta have people of color.
+
+1587
+01:12:44,692 --> 01:12:47,829
+It can't just be for 
+a certain set of people.
+
+1588
+01:12:47,862 --> 01:12:50,932
+Most of the role models 
+are now historical role models.
+
+1589
+01:12:50,965 --> 01:12:52,600
+people like Grace Hopper.
+
+1590
+01:12:52,633 --> 01:12:57,605
+We need more modern heroes, girls who code, who are famous,
+
+1591
+01:12:57,638 --> 01:13:01,008
+who can hold their own 
+in the hackathon world,
+
+1592
+01:13:01,042 --> 01:13:04,011
+and we need to 
+celebrate them more.
+
+1593
+01:13:04,045 --> 01:13:06,013
+It's not gender parity 
+for the sake of gender parity.
+
+1594
+01:13:06,047 --> 01:13:09,083
+I truly believe that the lack 
+of coding access for women
+
+1595
+01:13:09,116 --> 01:13:12,186
+is the most important domestic 
+issue of our country's time.
+
+1596
+01:13:13,354 --> 01:13:15,656
+We have seen girls 
+who have literally
+
+1597
+01:13:15,690 --> 01:13:17,725
+lifted their families 
+out of poverty
+
+1598
+01:13:17,758 --> 01:13:19,627
+because they've gotten 
+access to coding
+
+1599
+01:13:19,660 --> 01:13:21,796
+and they're now making websites,
+
+1600
+01:13:21,829 --> 01:13:23,130
+or being the first 
+in their families
+
+1601
+01:13:23,164 --> 01:13:24,665
+to get out 
+of public housing
+
+1602
+01:13:24,699 --> 01:13:28,603
+and getting a job at Twitter, 
+or eBay, or Square.
+
+1603
+01:13:28,636 --> 01:13:29,937
+And we've also seen girls
+
+1604
+01:13:29,971 --> 01:13:32,006
+that come from the best private schools in America
+
+1605
+01:13:32,039 --> 01:13:34,775
+that have no access 
+to computer science
+
+1606
+01:13:34,809 --> 01:13:37,111
+and who have 
+fallen in love with this.
+
+1607
+01:13:37,144 --> 01:13:39,180
+Companies like Facebook 
+are in a real position
+
+1608
+01:13:39,213 --> 01:13:40,448
+to change the perspective.
+
+1609
+01:13:40,481 --> 01:13:43,851
+I think, you know, if I think 
+of products that teenage girls
+
+1610
+01:13:43,885 --> 01:13:46,721
+use and love, I hope 
+Facebook's high on that list,
+
+1611
+01:13:46,754 --> 01:13:49,123
+and I hope that they are 
+inspired to think that Facebook
+
+1612
+01:13:49,156 --> 01:13:52,927
+is the kind of thing that 
+is made by people like them.
+
+1613
+01:13:52,960 --> 01:13:54,795
+It's not just made 
+by Mark Zuckerberg.
+
+1614
+01:13:54,829 --> 01:13:56,797
+I guarantee you that the 
+women engineers of Facebook
+
+1615
+01:13:56,831 --> 01:14:00,134
+have contributed far more code 
+to Facebook than Mark has.
+
+1616
+01:14:00,167 --> 01:14:02,603
+There are many, 
+many more of us.
+
+1617
+01:14:02,637 --> 01:14:04,939
+I want girls to think of it 
+as something that is made
+
+1618
+01:14:04,972 --> 01:14:06,908
+by teams of men and women 
+working together
+
+1619
+01:14:06,941 --> 01:14:09,744
+that they can contribute to, 
+that they can create.
+
+1620
+01:14:09,777 --> 01:14:11,612
+The farther 
+into the future we get,
+
+1621
+01:14:11,646 --> 01:14:13,748
+the more things 
+are gonna be based on code.
+
+1622
+01:14:13,781 --> 01:14:15,283
+If you stick with code
+
+1623
+01:14:15,316 --> 01:14:17,685
+and you find the 
+other things that you like,
+
+1624
+01:14:17,718 --> 01:14:20,655
+you can ride coding 
+into that career.
+
+1625
+01:14:20,688 --> 01:14:22,690
+It isn't that coding 
+is a career;
+
+1626
+01:14:22,723 --> 01:14:24,959
+it is a zillion careers.
+
+1627
+01:14:24,992 --> 01:14:27,361
+Computer science is becoming 
+mandatory in many countries.
+
+1628
+01:14:27,395 --> 01:14:30,097
+We're working to get 
+the U.S. to that point.
+
+1629
+01:14:30,131 --> 01:14:34,335
+New Zealand, South Korea, 
+Israel, Estonia, the UK.
+
+1630
+01:14:34,368 --> 01:14:36,671
+Those are all countries who 
+are teaching computer science
+
+1631
+01:14:36,704 --> 01:14:39,807
+to every child in their country.
+
+1632
+01:14:39,840 --> 01:14:41,642
+I actually think 
+that this is an issue
+
+1633
+01:14:41,676 --> 01:14:44,211
+where we can learn 
+from other countries.
+
+1634
+01:14:44,245 --> 01:14:46,180
+India's ahead of us. 
+Nigeria's ahead of us.
+
+1635
+01:14:46,213 --> 01:14:48,215
+Cambodia's ahead of us. 
+Cuba's ahead of us.
+
+1636
+01:14:48,249 --> 01:14:50,885
+Vietnam's ahead of us. 
+China's ahead of us.
+
+1637
+01:14:50,918 --> 01:14:52,787
+These countries get it,
+
+1638
+01:14:52,820 --> 01:14:56,090
+and they are educating 
+their women in these fields.
+
+1639
+01:14:56,123 --> 01:14:58,426
+(Megan Smith) 
+There's a bunch of countries 
+who are ahead of us.
+
+1640
+01:14:58,459 --> 01:15:01,862
+And we'll kind of run to catch 
+up, and hopefully move fast.
+
+1641
+01:15:01,896 --> 01:15:11,939
+♪♪♪
+
+1642
+01:15:11,939 --> 01:15:16,877
+♪♪♪
+
+1643
+01:15:16,911 --> 01:15:20,047
+CODE: 
+Debugging the Gender Gap.
+
+1644
+01:15:21,382 --> 01:15:31,425
+♪♪♪
+
+1645
+01:15:31,425 --> 01:15:36,364
+♪♪♪
+
+1646
+01:15:36,397 --> 01:15:46,440
+♪♪♪
+
+1647
+01:15:46,440 --> 01:15:51,379
+♪♪♪
+
+1648
+01:15:51,412 --> 01:16:01,455
+♪♪♪
+
+1649
+01:16:01,455 --> 01:16:06,394
+♪♪♪
+
+1650
+01:16:06,427 --> 01:16:16,470
+♪♪♪
+
+1651
+01:16:16,470 --> 01:16:21,409
+♪♪♪
+
+1652
+01:16:21,442 --> 01:16:31,485
+♪♪♪
+
+1653
+01:16:31,485 --> 01:16:36,424
+♪♪♪
+
+1654
+01:16:36,457 --> 01:16:46,500
+♪♪♪
+
+1655
+01:16:46,500 --> 01:16:51,439
+♪♪♪
+
+1656
+01:16:51,472 --> 01:17:01,515
+♪♪♪
+
+1657
+01:17:01,515 --> 01:17:06,454
+♪♪♪
+
+1658
+01:17:06,487 --> 01:17:16,530
+♪♪♪
+
+1659
+01:17:16,530 --> 01:17:21,469
+♪♪♪
+
+1660
+01:17:21,502 --> 01:17:31,545
+♪♪♪
+
+1661
+01:17:31,545 --> 01:17:36,484
+♪♪♪
+
+1662
+01:17:36,517 --> 01:17:46,560
+♪♪♪
+
+1663
+01:17:46,560 --> 01:17:51,499
+♪♪♪
+
+1664
+01:17:51,532 --> 01:18:01,575
+♪♪♪
+
+1665
+01:18:01,575 --> 01:18:06,514
+♪♪♪
+
+1666
+01:18:06,547 --> 01:18:16,590
+♪♪♪
+
+1667
+01:18:16,590 --> 01:18:21,529
+♪♪♪
+
+1668
+01:18:21,562 --> 01:18:31,605
+♪♪♪
+
+1669
+01:18:31,605 --> 01:18:36,544
+♪♪♪
+
+1670
+01:18:36,577 --> 01:18:45,019
+♪♪♪
+
